@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 from __future__ import division, absolute_import, print_function
-
+import matplotlib
+matplotlib.use('Agg')
 import os
 import sys
 import argparse

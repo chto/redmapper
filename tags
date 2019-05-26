@@ -1,0 +1,1662 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLSPHINXOPTS	docs/Makefile	/^ALLSPHINXOPTS   = -d $(BUILDDIR)\/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .$/;"	m
+ALLSPHINXOPTS	docs/make.bat	/^	set ALLSPHINXOPTS=-D latex_paper_size=%PAPER% %ALLSPHINXOPTS%$/;"	v
+ALLSPHINXOPTS	docs/make.bat	/^set ALLSPHINXOPTS=-d %BUILDDIR%\/doctrees %SPHINXOPTS% .$/;"	v
+ApplyErrormodelsTestCase	tests/test_apply_errormodels.py	/^class ApplyErrormodelsTestCase(unittest.TestCase):$/;"	c
+AstroToSphereTestCase	tests/test_utilities.py	/^class AstroToSphereTestCase(unittest.TestCase):$/;"	c
+BUILDDIR	docs/Makefile	/^BUILDDIR      = _build$/;"	m
+BUILDDIR	docs/make.bat	/^set BUILDDIR=_build$/;"	v
+Background	build/lib.linux-x86_64-2.7/redmapper/background.py	/^class Background(object):$/;"	c
+Background	redmapper/background.py	/^class Background(object):$/;"	c
+BackgroundGenerator	build/lib.linux-x86_64-2.7/redmapper/background.py	/^class BackgroundGenerator(object):$/;"	c
+BackgroundGenerator	redmapper/background.py	/^class BackgroundGenerator(object):$/;"	c
+BackgroundTestCase	tests/test_background.py	/^class BackgroundTestCase(unittest.TestCase):$/;"	c
+CPAR_NTERMS	redmapper/solver_nfw/solver_nfw.h	11;"	d
+CVAL_DEFAULT	redmapper/solver_nfw/solver_nfw.h	9;"	d
+Catalog	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^class Catalog(DataObject):$/;"	c
+Catalog	redmapper/catalog.py	/^class Catalog(DataObject):$/;"	c
+Centering	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^class Centering(object):$/;"	c
+Centering	redmapper/centering.py	/^class Centering(object):$/;"	c
+CenteringBCG	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^class CenteringBCG(Centering):$/;"	c
+CenteringBCG	redmapper/centering.py	/^class CenteringBCG(Centering):$/;"	c
+CenteringCalibratorTestCase	tests/test_centeringcal.py	/^class CenteringCalibratorTestCase(unittest.TestCase):$/;"	c
+CenteringRandom	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^class CenteringRandom(Centering):$/;"	c
+CenteringRandom	redmapper/centering.py	/^class CenteringRandom(Centering):$/;"	c
+CenteringRandomSatellite	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^class CenteringRandomSatellite(Centering):$/;"	c
+CenteringRandomSatellite	redmapper/centering.py	/^class CenteringRandomSatellite(Centering):$/;"	c
+CenteringTestCase	tests/test_centering.py	/^class CenteringTestCase(unittest.TestCase):$/;"	c
+CenteringWcenZred	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^class CenteringWcenZred(Centering):$/;"	c
+CenteringWcenZred	redmapper/centering.py	/^class CenteringWcenZred(Centering):$/;"	c
+ChisqColorTestCase	tests/test_chisq.py	/^class ChisqColorTestCase(unittest.TestCase):$/;"	c
+ChisqDistObject	redmapper/chisq_dist/chisq_dist_pywrap.c	/^struct ChisqDistObject {$/;"	s	file:
+ChisqDistObject_compute	redmapper/chisq_dist/chisq_dist_pywrap.c	/^PyObject* ChisqDistObject_compute(const struct ChisqDistObject* self, PyObject *args)$/;"	f
+ChisqDistObject_dealloc	redmapper/chisq_dist/chisq_dist_pywrap.c	/^ChisqDistObject_dealloc(struct ChisqDistObject* self)$/;"	f	file:
+ChisqDistObject_init	redmapper/chisq_dist/chisq_dist_pywrap.c	/^ChisqDistObject_init(struct ChisqDistObject* self, PyObject* args)$/;"	f	file:
+ChisqDistObject_methods	redmapper/chisq_dist/chisq_dist_pywrap.c	/^static PyMethodDef ChisqDistObject_methods[] = {$/;"	v	file:
+ChisqDistObject_repr	redmapper/chisq_dist/chisq_dist_pywrap.c	/^ChisqDistObject_repr(struct ChisqDistObject* self) {$/;"	f	file:
+ChisqDist_module_methods	redmapper/chisq_dist/chisq_dist_pywrap.c	/^static PyMethodDef ChisqDist_module_methods[] = {$/;"	v	file:
+CicTestCase	tests/test_utilities.py	/^class CicTestCase(unittest.TestCase):$/;"	c
+CleanCommand	setup.py	/^class CleanCommand(Command):$/;"	c
+Cluster	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^class Cluster(Entry):$/;"	c
+Cluster	redmapper/cluster.py	/^class Cluster(Entry):$/;"	c
+ClusterCatalog	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^class ClusterCatalog(Catalog):$/;"	c
+ClusterCatalog	redmapper/cluster.py	/^class ClusterCatalog(Catalog):$/;"	c
+ClusterCatalogTestCase	tests/test_clustercatalog.py	/^class ClusterCatalogTestCase(unittest.TestCase):$/;"	c
+ClusterFitTestCase	tests/test_cluster_fit.py	/^class ClusterFitTestCase(unittest.TestCase):$/;"	c
+ClusterRunner	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^class ClusterRunner(object):$/;"	c
+ClusterRunner	redmapper/cluster_runner.py	/^class ClusterRunner(object):$/;"	c
+ClusterTestCase	tests/test_cluster.py	/^class ClusterTestCase(unittest.TestCase):$/;"	c
+ColorBackground	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^class ColorBackground(object):$/;"	c
+ColorBackground	redmapper/color_background.py	/^class ColorBackground(object):$/;"	c
+ColorBackgroundGenerator	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^class ColorBackgroundGenerator(object):$/;"	c
+ColorBackgroundGenerator	redmapper/color_background.py	/^class ColorBackgroundGenerator(object):$/;"	c
+ColorBackgroundTestCase	tests/test_color_background.py	/^class ColorBackgroundTestCase(unittest.TestCase):$/;"	c
+ConfigField	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^class ConfigField(object):$/;"	c
+ConfigField	redmapper/configuration.py	/^class ConfigField(object):$/;"	c
+Configuration	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^class Configuration(object):$/;"	c
+Configuration	redmapper/configuration.py	/^class Configuration(object):$/;"	c
+ConsolidateTestCase	tests/test_consolidate.py	/^class ConsolidateTestCase(unittest.TestCase):$/;"	c
+CorrectionFitter	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^class CorrectionFitter(object):$/;"	c
+CorrectionFitter	redmapper/fitters.py	/^class CorrectionFitter(object):$/;"	c
+CubicSpline	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^class CubicSpline(object):$/;"	c
+CubicSpline	redmapper/utilities.py	/^class CubicSpline(object):$/;"	c
+DataObject	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^class DataObject(object):$/;"	c
+DataObject	redmapper/catalog.py	/^class DataObject(object):$/;"	c
+DepthFitTestCase	tests/test_depthfit.py	/^class DepthFitTestCase(unittest.TestCase):$/;"	c
+DepthFunction	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^class DepthFunction(object):$/;"	c
+DepthFunction	redmapper/depth_fitting.py	/^class DepthFunction(object):$/;"	c
+DepthLim	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^class DepthLim(object):$/;"	c
+DepthLim	redmapper/depth_fitting.py	/^class DepthLim(object):$/;"	c
+DepthMap	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^class DepthMap(object):$/;"	c
+DepthMap	redmapper/depthmap.py	/^class DepthMap(object):$/;"	c
+DepthMapTestCase	tests/test_depthmap.py	/^class DepthMapTestCase(unittest.TestCase):$/;"	c
+DuplicatableConfig	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^class DuplicatableConfig(object):$/;"	c
+DuplicatableConfig	redmapper/configuration.py	/^class DuplicatableConfig(object):$/;"	c
+EcgmmFitter	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^class EcgmmFitter(object):$/;"	c
+EcgmmFitter	redmapper/fitters.py	/^class EcgmmFitter(object):$/;"	c
+Entry	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^class Entry(DataObject):$/;"	c
+Entry	redmapper/catalog.py	/^class Entry(DataObject):$/;"	c
+FakeMaskConfig	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^class FakeMaskConfig(object):$/;"	c
+FakeMaskConfig	redmapper/galaxy.py	/^class FakeMaskConfig(object):$/;"	c
+FitterTestCase	tests/test_fitters.py	/^class FitterTestCase(unittest.TestCase):$/;"	c
+Galaxy	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^class Galaxy(Entry):$/;"	c
+Galaxy	redmapper/galaxy.py	/^class Galaxy(Entry):$/;"	c
+GalaxyCatalog	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^class GalaxyCatalog(Catalog):$/;"	c
+GalaxyCatalog	redmapper/galaxy.py	/^class GalaxyCatalog(Catalog):$/;"	c
+GalaxyCatalogMaker	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^class GalaxyCatalogMaker(object):$/;"	c
+GalaxyCatalogMaker	redmapper/galaxy.py	/^class GalaxyCatalogMaker(object):$/;"	c
+GalaxyCatalogTestCase	tests/test_galaxycatalog.py	/^class GalaxyCatalogTestCase(unittest.TestCase):$/;"	c
+HPMask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^class HPMask(Mask):$/;"	c
+HPMask	redmapper/mask.py	/^class HPMask(Mask):$/;"	c
+HealsparseConversionsTestCase	tests/test_healsparse_conversions.py	/^class HealsparseConversionsTestCase(unittest.TestCase):$/;"	c
+I18NSPHINXOPTS	docs/Makefile	/^I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .$/;"	m
+I18NSPHINXOPTS	docs/make.bat	/^	set I18NSPHINXOPTS=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS%$/;"	v
+I18NSPHINXOPTS	docs/make.bat	/^set I18NSPHINXOPTS=%SPHINXOPTS% .$/;"	v
+Logger	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^class Logger(object):$/;"	c
+Logger	redmapper/utilities.py	/^class Logger(object):$/;"	c
+MIN_EIGENVAL	redmapper/chisq_dist/chisq_dist.h	8;"	d
+MStar	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^class MStar(object):$/;"	c
+MStar	redmapper/utilities.py	/^class MStar(object):$/;"	c
+MStarTestCase	tests/test_utilities.py	/^class MStarTestCase(unittest.TestCase):$/;"	c
+Mask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^class Mask(object):$/;"	c
+Mask	redmapper/mask.py	/^class Mask(object):$/;"	c
+MaskTestCase	tests/test_mask.py	/^class MaskTestCase(unittest.TestCase):$/;"	c
+MedZFitter	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^class MedZFitter(object):$/;"	c
+MedZFitter	redmapper/fitters.py	/^class MedZFitter(object):$/;"	c
+NPY_NO_DEPRECATED_API	redmapper/chisq_dist/chisq_dist.h	6;"	d
+NPY_NO_DEPRECATED_API	redmapper/chisq_dist/chisq_dist_pywrap.c	6;"	d	file:
+NPY_NO_DEPRECATED_API	redmapper/solver_nfw/solver_nfw.h	4;"	d
+NPY_NO_DEPRECATED_API	redmapper/solver_nfw/solver_nfw_pywrap.c	5;"	d	file:
+NzPlot	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^class NzPlot(object):$/;"	c
+NzPlot	redmapper/plotting.py	/^class NzPlot(object):$/;"	c
+PAPER	docs/Makefile	/^PAPER         =$/;"	m
+PAPER	docs/make.bat	/^	echo.  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter$/;"	v
+PAPEROPT_a4	docs/Makefile	/^PAPEROPT_a4     = -D latex_paper_size=a4$/;"	m
+PAPEROPT_letter	docs/Makefile	/^PAPEROPT_letter = -D latex_paper_size=letter$/;"	m
+PrepMembers	build/lib.linux-x86_64-2.7/redmapper/calibration/prepmembers.py	/^class PrepMembers(object):$/;"	c
+PrepMembers	redmapper/calibration/prepmembers.py	/^class PrepMembers(object):$/;"	c
+PyChisqDistType	redmapper/chisq_dist/chisq_dist_pywrap.c	/^static PyTypeObject PyChisqDistType = {$/;"	v	file:
+PyInit__chisq_dist_pywrap	redmapper/chisq_dist/chisq_dist_pywrap.c	/^PyInit__chisq_dist_pywrap(void)$/;"	f
+PyInit__solver_nfw_pywrap	redmapper/solver_nfw/solver_nfw_pywrap.c	/^PyInit__solver_nfw_pywrap(void)$/;"	f
+PyMODINIT_FUNC	redmapper/chisq_dist/chisq_dist_pywrap.c	251;"	d	file:
+PyMODINIT_FUNC	redmapper/solver_nfw/solver_nfw_pywrap.c	212;"	d	file:
+PySolverType	redmapper/solver_nfw/solver_nfw_pywrap.c	/^static PyTypeObject PySolverType = {$/;"	v	file:
+RSIG_DEFAULT	redmapper/solver_nfw/solver_nfw.h	10;"	d
+ReadConfigTestCase	tests/test_config.py	/^class ReadConfigTestCase(unittest.TestCase):$/;"	c
+RedSequenceCalTestCase	tests/test_redsequencecal.py	/^class RedSequenceCalTestCase(unittest.TestCase):$/;"	c
+RedSequenceCalibrator	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^class RedSequenceCalibrator(object):$/;"	c
+RedSequenceCalibrator	redmapper/calibration/redsequencecal.py	/^class RedSequenceCalibrator(object):$/;"	c
+RedSequenceColorPar	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^class RedSequenceColorPar(object):$/;"	c
+RedSequenceColorPar	redmapper/redsequence.py	/^class RedSequenceColorPar(object):$/;"	c
+RedSequenceColorTestCase	tests/test_redsequence.py	/^class RedSequenceColorTestCase(unittest.TestCase):$/;"	c
+RedSequenceFitter	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^class RedSequenceFitter(object):$/;"	c
+RedSequenceFitter	redmapper/fitters.py	/^class RedSequenceFitter(object):$/;"	c
+RedSequenceOffDiagonalFitter	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^class RedSequenceOffDiagonalFitter(object):$/;"	c
+RedSequenceOffDiagonalFitter	redmapper/fitters.py	/^class RedSequenceOffDiagonalFitter(object):$/;"	c
+RedmagicCalTestCase	tests/test_redmagic.py	/^class RedmagicCalTestCase(unittest.TestCase):$/;"	c
+RedmagicCalibrator	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^class RedmagicCalibrator(object):$/;"	c
+RedmagicCalibrator	redmapper/redmagic/redmagic_calibrate.py	/^class RedmagicCalibrator(object):$/;"	c
+RedmagicGenerateRandoms	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_randoms.py	/^class RedmagicGenerateRandoms(object):$/;"	c
+RedmagicGenerateRandoms	redmapper/redmagic/redmagic_randoms.py	/^class RedmagicGenerateRandoms(object):$/;"	c
+RedmagicParameterFitter	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^class RedmagicParameterFitter(object):$/;"	c
+RedmagicParameterFitter	redmapper/redmagic/redmagic_calibrate.py	/^class RedmagicParameterFitter(object):$/;"	c
+RedmagicSelector	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_selector.py	/^class RedmagicSelector(object):$/;"	c
+RedmagicSelector	redmapper/redmagic/redmagic_selector.py	/^class RedmagicSelector(object):$/;"	c
+RedmapperCalibrationIteration	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^class RedmapperCalibrationIteration(object):$/;"	c
+RedmapperCalibrationIteration	redmapper/calibration/calibrate.py	/^class RedmapperCalibrationIteration(object):$/;"	c
+RedmapperCalibrationIterationFinal	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^class RedmapperCalibrationIterationFinal(object):$/;"	c
+RedmapperCalibrationIterationFinal	redmapper/calibration/calibrate.py	/^class RedmapperCalibrationIterationFinal(object):$/;"	c
+RedmapperCalibrator	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^class RedmapperCalibrator(object):$/;"	c
+RedmapperCalibrator	redmapper/calibration/calibrate.py	/^class RedmapperCalibrator(object):$/;"	c
+RedmapperConsolidateTask	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmapperconsolidatetask.py	/^class RedmapperConsolidateTask(object):$/;"	c
+RedmapperConsolidateTask	redmapper/pipeline/redmapperconsolidatetask.py	/^class RedmapperConsolidateTask(object):$/;"	c
+RedmapperRun	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^class RedmapperRun(object):$/;"	c
+RedmapperRun	redmapper/redmapper_run.py	/^class RedmapperRun(object):$/;"	c
+RedmapperRunTestCase	tests/test_redmapper_run.py	/^class RedmapperRunTestCase(unittest.TestCase):$/;"	c
+RunCatalog	build/lib.linux-x86_64-2.7/redmapper/runcat.py	/^class RunCatalog(ClusterRunner):$/;"	c
+RunCatalog	redmapper/runcat.py	/^class RunCatalog(ClusterRunner):$/;"	c
+RunColormem	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^class RunColormem(ClusterRunner):$/;"	c
+RunColormem	redmapper/run_colormem.py	/^class RunColormem(ClusterRunner):$/;"	c
+RunColormemTestCase	tests/test_run_colormem.py	/^class RunColormemTestCase(unittest.TestCase):$/;"	c
+RunFirstPass	build/lib.linux-x86_64-2.7/redmapper/run_firstpass.py	/^class RunFirstPass(ClusterRunner):$/;"	c
+RunFirstPass	redmapper/run_firstpass.py	/^class RunFirstPass(ClusterRunner):$/;"	c
+RunLikelihoods	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^class RunLikelihoods(ClusterRunner):$/;"	c
+RunLikelihoods	redmapper/run_likelihoods.py	/^class RunLikelihoods(ClusterRunner):$/;"	c
+RunPercolation	build/lib.linux-x86_64-2.7/redmapper/run_percolation.py	/^class RunPercolation(ClusterRunner):$/;"	c
+RunPercolation	redmapper/run_percolation.py	/^class RunPercolation(ClusterRunner):$/;"	c
+RunRedmagicTask	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagictask.py	/^class RunRedmagicTask(object):$/;"	c
+RunRedmagicTask	redmapper/redmagic/redmagictask.py	/^class RunRedmagicTask(object):$/;"	c
+RunRedmapperPixelTask	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmappertask.py	/^class RunRedmapperPixelTask(object):$/;"	c
+RunRedmapperPixelTask	redmapper/pipeline/redmappertask.py	/^class RunRedmapperPixelTask(object):$/;"	c
+RunZredPixelTask	build/lib.linux-x86_64-2.7/redmapper/pipeline/zredtask.py	/^class RunZredPixelTask(object):$/;"	c
+RunZredPixelTask	redmapper/pipeline/zredtask.py	/^class RunZredPixelTask(object):$/;"	c
+RuncatTestCase	tests/test_runcat.py	/^class RuncatTestCase(unittest.TestCase):$/;"	c
+SCALEVAL_DEFAULT	redmapper/solver_nfw/solver_nfw.h	7;"	d
+SCALEVAL_DEFAULT_NOTUSE	redmapper/solver_nfw/solver_nfw.h	8;"	d
+SEC_PER_DEG	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^SEC_PER_DEG = 3600$/;"	v
+SEC_PER_DEG	redmapper/utilities.py	/^SEC_PER_DEG = 3600$/;"	v
+SIGINT_DEFAULT	redmapper/chisq_dist/chisq_dist.h	9;"	d
+SPHINXBUILD	docs/Makefile	/^SPHINXBUILD   = sphinx-build$/;"	m
+SPHINXBUILD	docs/make.bat	/^	set SPHINXBUILD=sphinx-build$/;"	v
+SPHINXOPTS	docs/Makefile	/^SPHINXOPTS    =$/;"	m
+SelectSpecRedGalaxies	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecred.py	/^class SelectSpecRedGalaxies(object):$/;"	c
+SelectSpecRedGalaxies	redmapper/calibration/selectspecred.py	/^class SelectSpecRedGalaxies(object):$/;"	c
+SelectSpecRedTestCase	tests/test_selectspecred.py	/^class SelectSpecRedTestCase(unittest.TestCase):$/;"	c
+SelectSpecSeeds	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecseeds.py	/^class SelectSpecSeeds(object):$/;"	c
+SelectSpecSeeds	redmapper/calibration/selectspecseeds.py	/^class SelectSpecSeeds(object):$/;"	c
+SelectSpecSeedsTestCase	tests/test_selectspecseeds.py	/^class SelectSpecSeedsTestCase(unittest.TestCase):$/;"	c
+Solver	build/lib.linux-x86_64-2.7/redmapper/solver_nfw/solver_nfw_lib.py	/^class Solver(object):$/;"	c
+Solver	redmapper/solver_nfw/solver_nfw_lib.py	/^class Solver(object):$/;"	c
+SolverNFWTestCase	tests/test_solver.py	/^class SolverNFWTestCase(unittest.TestCase):$/;"	c
+SolverObject	redmapper/solver_nfw/solver_nfw_pywrap.c	/^struct SolverObject {$/;"	s	file:
+SolverObject_dealloc	redmapper/solver_nfw/solver_nfw_pywrap.c	/^SolverObject_dealloc(struct SolverObject* self)$/;"	f	file:
+SolverObject_init	redmapper/solver_nfw/solver_nfw_pywrap.c	/^SolverObject_init(struct SolverObject* self, PyObject *args)$/;"	f	file:
+SolverObject_methods	redmapper/solver_nfw/solver_nfw_pywrap.c	/^static PyMethodDef SolverObject_methods[] = {$/;"	v	file:
+SolverObject_repr	redmapper/solver_nfw/solver_nfw_pywrap.c	/^SolverObject_repr(struct SolverObject* self) {$/;"	f	file:
+SolverObject_solver_nfw	redmapper/solver_nfw/solver_nfw_pywrap.c	/^PyObject* SolverObject_solver_nfw(const struct SolverObject* self, PyObject *args)$/;"	f
+Solver_module_methods	redmapper/solver_nfw/solver_nfw_pywrap.c	/^static PyMethodDef Solver_module_methods[] = {$/;"	v	file:
+SpecPlot	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^class SpecPlot(object):$/;"	c
+SpecPlot	redmapper/plotting.py	/^class SpecPlot(object):$/;"	c
+SplineTestCase	tests/test_utilities.py	/^class SplineTestCase(unittest.TestCase):$/;"	c
+SubpixIndexTestCase	tests/test_subpix_indices.py	/^class SubpixIndexTestCase(unittest.TestCase):$/;"	c
+TOL_DEFAULT	redmapper/solver_nfw/solver_nfw.h	6;"	d
+TOTAL_SQDEG	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^TOTAL_SQDEG = 4 * 180**2 \/ np.pi$/;"	v
+TOTAL_SQDEG	redmapper/utilities.py	/^TOTAL_SQDEG = 4 * 180**2 \/ np.pi$/;"	v
+TempD	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^        class TempD(object):$/;"	c	function:FakeMaskConfig.__init__
+TempD	redmapper/galaxy.py	/^        class TempD(object):$/;"	c	function:FakeMaskConfig.__init__
+UtilityTemplateTestCase	tests/test_utilities.py	/^class UtilityTemplateTestCase(unittest.TestCase):$/;"	c
+VolumeLimitMask	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^class VolumeLimitMask(object):$/;"	c
+VolumeLimitMask	redmapper/volumelimit.py	/^class VolumeLimitMask(object):$/;"	c
+VolumeLimitMaskFixed	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^class VolumeLimitMaskFixed(object):$/;"	c
+VolumeLimitMaskFixed	redmapper/volumelimit.py	/^class VolumeLimitMaskFixed(object):$/;"	c
+VolumeLimitMaskTestCase	tests/test_volumelimit.py	/^class VolumeLimitMaskTestCase(unittest.TestCase):$/;"	c
+WcenCFitter	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^class WcenCFitter(object):$/;"	c
+WcenCFitter	redmapper/calibration/centeringcal.py	/^class WcenCFitter(object):$/;"	c
+WcenCalibrator	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^class WcenCalibrator(object):$/;"	c
+WcenCalibrator	redmapper/calibration/centeringcal.py	/^class WcenCalibrator(object):$/;"	c
+WcenCwFitter	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^class WcenCwFitter(object):$/;"	c
+WcenCwFitter	redmapper/calibration/centeringcal.py	/^class WcenCwFitter(object):$/;"	c
+WcenFgFitter	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^class WcenFgFitter(object):$/;"	c
+WcenFgFitter	redmapper/calibration/centeringcal.py	/^class WcenFgFitter(object):$/;"	c
+ZLambdaCalTestCase	tests/test_zlambdacal.py	/^class ZLambdaCalTestCase(unittest.TestCase):$/;"	c
+ZLambdaCalibrator	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^class ZLambdaCalibrator(object):$/;"	c
+ZLambdaCalibrator	redmapper/calibration/zlambdacal.py	/^class ZLambdaCalibrator(object):$/;"	c
+ZLambdaFitter	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^class ZLambdaFitter(object):$/;"	c
+ZLambdaFitter	redmapper/calibration/zlambdacal.py	/^class ZLambdaFitter(object):$/;"	c
+Zlambda	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^class Zlambda(object):$/;"	c
+Zlambda	redmapper/zlambda.py	/^class Zlambda(object):$/;"	c
+ZlambdaCorrectionPar	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^class ZlambdaCorrectionPar(object):$/;"	c
+ZlambdaCorrectionPar	redmapper/zlambda.py	/^class ZlambdaCorrectionPar(object):$/;"	c
+ZlambdaTestCase	tests/test_zlambda.py	/^class ZlambdaTestCase(unittest.TestCase):$/;"	c
+ZredBackground	build/lib.linux-x86_64-2.7/redmapper/background.py	/^class ZredBackground(object):$/;"	c
+ZredBackground	redmapper/background.py	/^class ZredBackground(object):$/;"	c
+ZredBackgroundGenerator	build/lib.linux-x86_64-2.7/redmapper/background.py	/^class ZredBackgroundGenerator(object):$/;"	c
+ZredBackgroundGenerator	redmapper/background.py	/^class ZredBackgroundGenerator(object):$/;"	c
+ZredColor	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^class ZredColor(object):$/;"	c
+ZredColor	redmapper/zred_color.py	/^class ZredColor(object):$/;"	c
+ZredRunCatalog	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^class ZredRunCatalog(object):$/;"	c
+ZredRunCatalog	redmapper/zred_runner.py	/^class ZredRunCatalog(object):$/;"	c
+ZredRunPixels	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^class ZredRunPixels(object):$/;"	c
+ZredRunPixels	redmapper/zred_runner.py	/^class ZredRunPixels(object):$/;"	c
+ZredTestCase	tests/test_zred.py	/^class ZredTestCase(unittest.TestCase):$/;"	c
+_CALCLAMBDA_CHISQ_DIST	redmapper/chisq_dist/chisq_dist.h	2;"	d
+_SOLVER_NFW	redmapper/solver_nfw/solver_nfw.h	2;"	d
+__call__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenCFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenCwFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenFgFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^    def __call__(self, pars):$/;"	m	class:ZLambdaFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^    def __call__(self, x):$/;"	m	class:DepthFunction	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:CorrectionFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:EcgmmFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:MedZFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:RedSequenceFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:RedSequenceOffDiagonalFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def __call__(self, pars):$/;"	m	class:RedmagicParameterFitter	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def __call__(self, x):$/;"	m	class:CubicSpline	file:
+__call__	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def __call__(self, z):$/;"	m	class:MStar	file:
+__call__	redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenCFitter	file:
+__call__	redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenCwFitter	file:
+__call__	redmapper/calibration/centeringcal.py	/^    def __call__(self, pars):$/;"	m	class:WcenFgFitter	file:
+__call__	redmapper/calibration/zlambdacal.py	/^    def __call__(self, pars):$/;"	m	class:ZLambdaFitter	file:
+__call__	redmapper/depth_fitting.py	/^    def __call__(self, x):$/;"	m	class:DepthFunction	file:
+__call__	redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:CorrectionFitter	file:
+__call__	redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:EcgmmFitter	file:
+__call__	redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:MedZFitter	file:
+__call__	redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:RedSequenceFitter	file:
+__call__	redmapper/fitters.py	/^    def __call__(self, pars):$/;"	m	class:RedSequenceOffDiagonalFitter	file:
+__call__	redmapper/redmagic/redmagic_calibrate.py	/^    def __call__(self, pars):$/;"	m	class:RedmagicParameterFitter	file:
+__call__	redmapper/utilities.py	/^    def __call__(self, x):$/;"	m	class:CubicSpline	file:
+__call__	redmapper/utilities.py	/^    def __call__(self, z):$/;"	m	class:MStar	file:
+__copy__	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def __copy__(self):$/;"	m	class:Cluster	file:
+__copy__	redmapper/cluster.py	/^    def __copy__(self):$/;"	m	class:Cluster	file:
+__dir__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __dir__(self):$/;"	m	class:DataObject	file:
+__dir__	redmapper/catalog.py	/^    def __dir__(self):$/;"	m	class:DataObject	file:
+__get__	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def __get__(self, obj, type=None):$/;"	m	class:ConfigField	file:
+__get__	redmapper/configuration.py	/^    def __get__(self, obj, type=None):$/;"	m	class:ConfigField	file:
+__getattr__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __getattr__(self, attr):$/;"	m	class:DataObject	file:
+__getattr__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __getattr__(self, attr):$/;"	m	class:Entry	file:
+__getattr__	redmapper/catalog.py	/^    def __getattr__(self, attr):$/;"	m	class:DataObject	file:
+__getattr__	redmapper/catalog.py	/^    def __getattr__(self, attr):$/;"	m	class:Entry	file:
+__getitem__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __getitem__(self, key):$/;"	m	class:Catalog	file:
+__getitem__	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def __getitem__(self, key):$/;"	m	class:ClusterCatalog	file:
+__getitem__	redmapper/catalog.py	/^    def __getitem__(self, key):$/;"	m	class:Catalog	file:
+__getitem__	redmapper/cluster.py	/^    def __getitem__(self, key):$/;"	m	class:ClusterCatalog	file:
+__init__	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def __init__(self, config):$/;"	m	class:BackgroundGenerator
+__init__	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def __init__(self, config):$/;"	m	class:ZredBackgroundGenerator
+__init__	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def __init__(self, filename):$/;"	m	class:Background
+__init__	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def __init__(self, filename):$/;"	m	class:ZredBackground
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def __init__(self, conf):$/;"	m	class:RedmapperCalibrator
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def __init__(self, config):$/;"	m	class:RedmapperCalibrationIteration
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def __init__(self, config):$/;"	m	class:RedmapperCalibrationIterationFinal
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __init__(self, config, iteration, randcatfile=None, randsatcatfile=None):$/;"	m	class:WcenCalibrator
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __init__(self, pcen, psat, mstar, lamscale, refmag, cwt, phi1, bcounts):$/;"	m	class:WcenCFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __init__(self, pcen, psat, wcen, ffg, fsat, lscale):$/;"	m	class:WcenCwFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def __init__(self, w, lscale):$/;"	m	class:WcenFgFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/prepmembers.py	/^    def __init__(self, conf):$/;"	m	class:PrepMembers
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def __init__(self, conf, galfile):$/;"	m	class:RedSequenceCalibrator
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecred.py	/^    def __init__(self, conf):$/;"	m	class:SelectSpecRedGalaxies
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecseeds.py	/^    def __init__(self, conf):$/;"	m	class:SelectSpecSeeds
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^    def __init__(self, config, corrslope=False):$/;"	m	class:ZLambdaCalibrator
+__init__	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^    def __init__(self, nodes, slope_nodes, redshifts, dzs, redshift_errs, loglambdas):$/;"	m	class:ZLambdaFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __init__(self, *arrays):$/;"	m	class:DataObject
+__init__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __init__(self, array):$/;"	m	class:Entry
+__init__	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def __init__(self, cluster, zlambda_corr=None):$/;"	m	class:Centering
+__init__	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def __init__(self, array, **kwargs):$/;"	m	class:ClusterCatalog
+__init__	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def __init__(self, cat_vals=None, r0=None, beta=None, config=None, zredstr=None, bkg=None, cbkg=None, neighbors=None, zredbkg=None):$/;"	m	class:Cluster
+__init__	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def __init__(self, conf, **kwargs):$/;"	m	class:ClusterRunner
+__init__	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def __init__(self, config, minrangecheck=1000):$/;"	m	class:ColorBackgroundGenerator
+__init__	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def __init__(self, filename, usehdrarea=False):$/;"	m	class:ColorBackground
+__init__	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def __init__(self, config):$/;"	m	class:DuplicatableConfig
+__init__	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def __init__(self, configfile, outpath=None):$/;"	m	class:Configuration
+__init__	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def __init__(self, value=None, default=None, isArray=False, required=False, array_length=None, isList=False):$/;"	m	class:ConfigField
+__init__	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^    def __init__(self, mag, mag_err, max_gals=100000):$/;"	m	class:DepthLim
+__init__	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^    def __init__(self,mag,magErr,zp,nSig):$/;"	m	class:DepthFunction
+__init__	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^    def __init__(self, config, depthfile=None):$/;"	m	class:DepthMap
+__init__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __init__(self, mean_nodes, redshifts, dzs, dz_errs,$/;"	m	class:CorrectionFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __init__(self, mean_nodes,$/;"	m	class:RedSequenceFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __init__(self, nodes, redshifts, d1, d2, s1, s2, mag_errs, j, k, probs, bkgs, covmat_prior, min_eigenvalue=0.0):$/;"	m	class:RedSequenceOffDiagonalFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __init__(self, y, y_err):$/;"	m	class:EcgmmFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def __init__(self, z_nodes, redshifts, values):$/;"	m	class:MedZFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^            def __init__(self):$/;"	m	class:FakeMaskConfig.__init__.TempD
+__init__	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def __init__(self, *arrays, **kwargs):$/;"	m	class:GalaxyCatalog
+__init__	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def __init__(self, maskfile, mask_mode):$/;"	m	class:FakeMaskConfig
+__init__	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def __init__(self, outbase, info_dict, nside=32, maskfile=None, mask_mode=0):$/;"	m	class:GalaxyCatalogMaker
+__init__	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def __init__(self, config, **kwargs):$/;"	m	class:HPMask
+__init__	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def __init__(self, config, include_maskgals=True):$/;"	m	class:Mask
+__init__	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmapperconsolidatetask.py	/^    def __init__(self, configfile, lambda_cuts=None, vlim_lstars=[], path=None):$/;"	m	class:RedmapperConsolidateTask
+__init__	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmappertask.py	/^    def __init__(self, configfile, pixel, nside, path=None):$/;"	m	class:RunRedmapperPixelTask
+__init__	build/lib.linux-x86_64-2.7/redmapper/pipeline/zredtask.py	/^    def __init__(self, configfile, pixel, nside, path=None):$/;"	m	class:RunZredPixelTask
+__init__	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def __init__(self, conf, binsize=0.02):$/;"	m	class:NzPlot
+__init__	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def __init__(self, conf, binsize=0.02, nsig=4.0):$/;"	m	class:SpecPlot
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def __init__(self, conf):$/;"	m	class:RedmagicCalibrator
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def __init__(self, nodes, corrnodes, z, z_err,$/;"	m	class:RedmagicParameterFitter
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_randoms.py	/^    def __init__(self, config, vlim_mask_or_file, redmagic_cat_or_file):$/;"	m	class:RedmagicGenerateRandoms
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_selector.py	/^    def __init__(self, conf, vlim_masks=None):$/;"	m	class:RedmagicSelector
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagictask.py	/^    def __init__(self, configfile, path=None):$/;"	m	class:RunRedmagicTask
+__init__	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def __init__(self, config):$/;"	m	class:RedmapperRun
+__init__	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def __init__(self, filename, zbinsize=None, minsig=0.01, fine=False, zrange=None, config=None, limmag=None):$/;"	m	class:RedSequenceColorPar
+__init__	build/lib.linux-x86_64-2.7/redmapper/solver_nfw/solver_nfw_lib.py	/^    def __init__(self, r0, beta, ucounts, bcounts, r, w,$/;"	m	class:Solver
+__init__	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def __init__(self):$/;"	m	class:Logger
+__init__	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def __init__(self, survey, band):$/;"	m	class:MStar
+__init__	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def __init__(self, x, y, yp=None):$/;"	m	class:CubicSpline
+__init__	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def __init__(self, config):$/;"	m	class:VolumeLimitMaskFixed
+__init__	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def __init__(self, config, vlim_lstar, vlimfile=None, use_geometry=False):$/;"	m	class:VolumeLimitMask
+__init__	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def __init__(self, cluster):$/;"	m	class:Zlambda
+__init__	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def __init__(self, parfile=None, pars=None, zrange=None, zbinsize=None, zlambda_pivot=None):$/;"	m	class:ZlambdaCorrectionPar
+__init__	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^    def __init__(self, zredstr, sigint=0.001, do_correction=True,$/;"	m	class:ZredColor
+__init__	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def __init__(self, config):$/;"	m	class:ZredRunCatalog
+__init__	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def __init__(self, config):$/;"	m	class:ZredRunPixels
+__init__	redmapper/background.py	/^    def __init__(self, config):$/;"	m	class:BackgroundGenerator
+__init__	redmapper/background.py	/^    def __init__(self, config):$/;"	m	class:ZredBackgroundGenerator
+__init__	redmapper/background.py	/^    def __init__(self, filename):$/;"	m	class:Background
+__init__	redmapper/background.py	/^    def __init__(self, filename):$/;"	m	class:ZredBackground
+__init__	redmapper/calibration/calibrate.py	/^    def __init__(self, conf):$/;"	m	class:RedmapperCalibrator
+__init__	redmapper/calibration/calibrate.py	/^    def __init__(self, config):$/;"	m	class:RedmapperCalibrationIteration
+__init__	redmapper/calibration/calibrate.py	/^    def __init__(self, config):$/;"	m	class:RedmapperCalibrationIterationFinal
+__init__	redmapper/calibration/centeringcal.py	/^    def __init__(self, config, iteration, randcatfile=None, randsatcatfile=None):$/;"	m	class:WcenCalibrator
+__init__	redmapper/calibration/centeringcal.py	/^    def __init__(self, pcen, psat, mstar, lamscale, refmag, cwt, phi1, bcounts):$/;"	m	class:WcenCFitter
+__init__	redmapper/calibration/centeringcal.py	/^    def __init__(self, pcen, psat, wcen, ffg, fsat, lscale):$/;"	m	class:WcenCwFitter
+__init__	redmapper/calibration/centeringcal.py	/^    def __init__(self, w, lscale):$/;"	m	class:WcenFgFitter
+__init__	redmapper/calibration/prepmembers.py	/^    def __init__(self, conf):$/;"	m	class:PrepMembers
+__init__	redmapper/calibration/redsequencecal.py	/^    def __init__(self, conf, galfile):$/;"	m	class:RedSequenceCalibrator
+__init__	redmapper/calibration/selectspecred.py	/^    def __init__(self, conf):$/;"	m	class:SelectSpecRedGalaxies
+__init__	redmapper/calibration/selectspecseeds.py	/^    def __init__(self, conf):$/;"	m	class:SelectSpecSeeds
+__init__	redmapper/calibration/zlambdacal.py	/^    def __init__(self, config, corrslope=False):$/;"	m	class:ZLambdaCalibrator
+__init__	redmapper/calibration/zlambdacal.py	/^    def __init__(self, nodes, slope_nodes, redshifts, dzs, redshift_errs, loglambdas):$/;"	m	class:ZLambdaFitter
+__init__	redmapper/catalog.py	/^    def __init__(self, *arrays):$/;"	m	class:DataObject
+__init__	redmapper/catalog.py	/^    def __init__(self, array):$/;"	m	class:Entry
+__init__	redmapper/centering.py	/^    def __init__(self, cluster, zlambda_corr=None):$/;"	m	class:Centering
+__init__	redmapper/cluster.py	/^    def __init__(self, array, **kwargs):$/;"	m	class:ClusterCatalog
+__init__	redmapper/cluster.py	/^    def __init__(self, cat_vals=None, r0=None, beta=None, config=None, zredstr=None, bkg=None, cbkg=None, neighbors=None, zredbkg=None):$/;"	m	class:Cluster
+__init__	redmapper/cluster_runner.py	/^    def __init__(self, conf, **kwargs):$/;"	m	class:ClusterRunner
+__init__	redmapper/color_background.py	/^    def __init__(self, config, minrangecheck=1000):$/;"	m	class:ColorBackgroundGenerator
+__init__	redmapper/color_background.py	/^    def __init__(self, filename, usehdrarea=False):$/;"	m	class:ColorBackground
+__init__	redmapper/configuration.py	/^    def __init__(self, config):$/;"	m	class:DuplicatableConfig
+__init__	redmapper/configuration.py	/^    def __init__(self, configfile, outpath=None):$/;"	m	class:Configuration
+__init__	redmapper/configuration.py	/^    def __init__(self, value=None, default=None, isArray=False, required=False, array_length=None, isList=False):$/;"	m	class:ConfigField
+__init__	redmapper/depth_fitting.py	/^    def __init__(self, mag, mag_err, max_gals=100000):$/;"	m	class:DepthLim
+__init__	redmapper/depth_fitting.py	/^    def __init__(self,mag,magErr,zp,nSig):$/;"	m	class:DepthFunction
+__init__	redmapper/depthmap.py	/^    def __init__(self, config, depthfile=None):$/;"	m	class:DepthMap
+__init__	redmapper/fitters.py	/^    def __init__(self, mean_nodes, redshifts, dzs, dz_errs,$/;"	m	class:CorrectionFitter
+__init__	redmapper/fitters.py	/^    def __init__(self, mean_nodes,$/;"	m	class:RedSequenceFitter
+__init__	redmapper/fitters.py	/^    def __init__(self, nodes, redshifts, d1, d2, s1, s2, mag_errs, j, k, probs, bkgs, covmat_prior, min_eigenvalue=0.0):$/;"	m	class:RedSequenceOffDiagonalFitter
+__init__	redmapper/fitters.py	/^    def __init__(self, y, y_err):$/;"	m	class:EcgmmFitter
+__init__	redmapper/fitters.py	/^    def __init__(self, z_nodes, redshifts, values):$/;"	m	class:MedZFitter
+__init__	redmapper/galaxy.py	/^            def __init__(self):$/;"	m	class:FakeMaskConfig.__init__.TempD
+__init__	redmapper/galaxy.py	/^    def __init__(self, *arrays, **kwargs):$/;"	m	class:GalaxyCatalog
+__init__	redmapper/galaxy.py	/^    def __init__(self, maskfile, mask_mode):$/;"	m	class:FakeMaskConfig
+__init__	redmapper/galaxy.py	/^    def __init__(self, outbase, info_dict, nside=32, maskfile=None, mask_mode=0):$/;"	m	class:GalaxyCatalogMaker
+__init__	redmapper/mask.py	/^    def __init__(self, config, **kwargs):$/;"	m	class:HPMask
+__init__	redmapper/mask.py	/^    def __init__(self, config, include_maskgals=True):$/;"	m	class:Mask
+__init__	redmapper/pipeline/redmapperconsolidatetask.py	/^    def __init__(self, configfile, lambda_cuts=None, vlim_lstars=[], path=None):$/;"	m	class:RedmapperConsolidateTask
+__init__	redmapper/pipeline/redmappertask.py	/^    def __init__(self, configfile, pixel, nside, path=None):$/;"	m	class:RunRedmapperPixelTask
+__init__	redmapper/pipeline/zredtask.py	/^    def __init__(self, configfile, pixel, nside, path=None):$/;"	m	class:RunZredPixelTask
+__init__	redmapper/plotting.py	/^    def __init__(self, conf, binsize=0.02):$/;"	m	class:NzPlot
+__init__	redmapper/plotting.py	/^    def __init__(self, conf, binsize=0.02, nsig=4.0):$/;"	m	class:SpecPlot
+__init__	redmapper/redmagic/redmagic_calibrate.py	/^    def __init__(self, conf):$/;"	m	class:RedmagicCalibrator
+__init__	redmapper/redmagic/redmagic_calibrate.py	/^    def __init__(self, nodes, corrnodes, z, z_err,$/;"	m	class:RedmagicParameterFitter
+__init__	redmapper/redmagic/redmagic_randoms.py	/^    def __init__(self, config, vlim_mask_or_file, redmagic_cat_or_file):$/;"	m	class:RedmagicGenerateRandoms
+__init__	redmapper/redmagic/redmagic_selector.py	/^    def __init__(self, conf, vlim_masks=None):$/;"	m	class:RedmagicSelector
+__init__	redmapper/redmagic/redmagictask.py	/^    def __init__(self, configfile, path=None):$/;"	m	class:RunRedmagicTask
+__init__	redmapper/redmapper_run.py	/^    def __init__(self, config):$/;"	m	class:RedmapperRun
+__init__	redmapper/redsequence.py	/^    def __init__(self, filename, zbinsize=None, minsig=0.01, fine=False, zrange=None, config=None, limmag=None):$/;"	m	class:RedSequenceColorPar
+__init__	redmapper/solver_nfw/solver_nfw_lib.py	/^    def __init__(self, r0, beta, ucounts, bcounts, r, w,$/;"	m	class:Solver
+__init__	redmapper/utilities.py	/^    def __init__(self):$/;"	m	class:Logger
+__init__	redmapper/utilities.py	/^    def __init__(self, survey, band):$/;"	m	class:MStar
+__init__	redmapper/utilities.py	/^    def __init__(self, x, y, yp=None):$/;"	m	class:CubicSpline
+__init__	redmapper/volumelimit.py	/^    def __init__(self, config):$/;"	m	class:VolumeLimitMaskFixed
+__init__	redmapper/volumelimit.py	/^    def __init__(self, config, vlim_lstar, vlimfile=None, use_geometry=False):$/;"	m	class:VolumeLimitMask
+__init__	redmapper/zlambda.py	/^    def __init__(self, cluster):$/;"	m	class:Zlambda
+__init__	redmapper/zlambda.py	/^    def __init__(self, parfile=None, pars=None, zrange=None, zbinsize=None, zlambda_pivot=None):$/;"	m	class:ZlambdaCorrectionPar
+__init__	redmapper/zred_color.py	/^    def __init__(self, zredstr, sigint=0.001, do_correction=True,$/;"	m	class:ZredColor
+__init__	redmapper/zred_runner.py	/^    def __init__(self, config):$/;"	m	class:ZredRunCatalog
+__init__	redmapper/zred_runner.py	/^    def __init__(self, config):$/;"	m	class:ZredRunPixels
+__len__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __len__(self): return self.size$/;"	m	class:Catalog	file:
+__len__	redmapper/catalog.py	/^    def __len__(self): return self.size$/;"	m	class:Catalog	file:
+__repr__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __repr__(self):$/;"	m	class:DataObject	file:
+__repr__	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def __repr__(self):$/;"	m	class:RedSequenceColorPar	file:
+__repr__	redmapper/catalog.py	/^    def __repr__(self):$/;"	m	class:DataObject	file:
+__repr__	redmapper/redsequence.py	/^    def __repr__(self):$/;"	m	class:RedSequenceColorPar	file:
+__set__	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def __set__(self, obj, value):$/;"	m	class:ConfigField	file:
+__set__	redmapper/configuration.py	/^    def __set__(self, obj, value):$/;"	m	class:ConfigField	file:
+__setattr__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __setattr__(self, attr, val):$/;"	m	class:DataObject	file:
+__setattr__	redmapper/catalog.py	/^    def __setattr__(self, attr, val):$/;"	m	class:DataObject	file:
+__setitem__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __setitem__(self, key, val):$/;"	m	class:Catalog	file:
+__setitem__	redmapper/catalog.py	/^    def __setitem__(self, key, val):$/;"	m	class:Catalog	file:
+__str__	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def __str__(self):$/;"	m	class:DataObject	file:
+__str__	redmapper/catalog.py	/^    def __str__(self):$/;"	m	class:DataObject	file:
+__version__	build/lib.linux-x86_64-2.7/redmapper/_version.py	/^__version__ = '0.2.5'$/;"	v
+__version__	redmapper/_version.py	/^__version__ = '0.2.5'$/;"	v
+__version_info__	build/lib.linux-x86_64-2.7/redmapper/_version.py	/^__version_info__ = tuple(map(int, __version__.split('.')))$/;"	v
+__version_info__	redmapper/_version.py	/^__version_info__ = tuple(map(int, __version__.split('.')))$/;"	v
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:ClusterRunner
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunColormem
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/run_firstpass.py	/^    def _additional_initialization(self, specmode=False):$/;"	m	class:RunFirstPass
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def _additional_initialization(self):$/;"	m	class:RunLikelihoods
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/run_percolation.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunPercolation
+_additional_initialization	build/lib.linux-x86_64-2.7/redmapper/runcat.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunCatalog
+_additional_initialization	redmapper/cluster_runner.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:ClusterRunner
+_additional_initialization	redmapper/run_colormem.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunColormem
+_additional_initialization	redmapper/run_firstpass.py	/^    def _additional_initialization(self, specmode=False):$/;"	m	class:RunFirstPass
+_additional_initialization	redmapper/run_likelihoods.py	/^    def _additional_initialization(self):$/;"	m	class:RunLikelihoods
+_additional_initialization	redmapper/run_percolation.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunPercolation
+_additional_initialization	redmapper/runcat.py	/^    def _additional_initialization(self, **kwargs):$/;"	m	class:RunCatalog
+_bracket_fn	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _bracket_fn(self, z):$/;"	m	class:Zlambda
+_bracket_fn	redmapper/zlambda.py	/^    def _bracket_fn(self, z):$/;"	m	class:Zlambda
+_build_geometry_mask	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def _build_geometry_mask(self):$/;"	m	class:VolumeLimitMask
+_build_geometry_mask	redmapper/volumelimit.py	/^    def _build_geometry_mask(self):$/;"	m	class:VolumeLimitMask
+_build_mask	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def _build_mask(self):$/;"	m	class:VolumeLimitMask
+_build_mask	redmapper/volumelimit.py	/^    def _build_mask(self):$/;"	m	class:VolumeLimitMask
+_calc_corrections	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_corrections(self, gals, mode2=False):$/;"	m	class:RedSequenceCalibrator
+_calc_corrections	redmapper/calibration/redsequencecal.py	/^    def _calc_corrections(self, gals, mode2=False):$/;"	m	class:RedSequenceCalibrator
+_calc_diagonal_pars	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_diagonal_pars(self, gals, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+_calc_diagonal_pars	redmapper/calibration/redsequencecal.py	/^    def _calc_diagonal_pars(self, gals, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+_calc_luminosity	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def _calc_luminosity(self, normmag, idx=None):$/;"	m	class:Cluster
+_calc_luminosity	redmapper/cluster.py	/^    def _calc_luminosity(self, normmag, idx=None):$/;"	m	class:Cluster
+_calc_medcols	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_medcols(self, gals):$/;"	m	class:RedSequenceCalibrator
+_calc_medcols	redmapper/calibration/redsequencecal.py	/^    def _calc_medcols(self, gals):$/;"	m	class:RedSequenceCalibrator
+_calc_offdiagonal_pars	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_offdiagonal_pars(self, gals, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+_calc_offdiagonal_pars	redmapper/calibration/redsequencecal.py	/^    def _calc_offdiagonal_pars(self, gals, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+_calc_pivotmags	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_pivotmags(self, gals):$/;"	m	class:RedSequenceCalibrator
+_calc_pivotmags	redmapper/calibration/redsequencecal.py	/^    def _calc_pivotmags(self, gals):$/;"	m	class:RedSequenceCalibrator
+_calc_radial_profile	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def _calc_radial_profile(self, idx=None, rscale=0.15):$/;"	m	class:Cluster
+_calc_radial_profile	redmapper/cluster.py	/^    def _calc_radial_profile(self, idx=None, rscale=0.15):$/;"	m	class:Cluster
+_calc_volume_factor	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_volume_factor(self, zref):$/;"	m	class:RedSequenceCalibrator
+_calc_volume_factor	redmapper/calibration/redsequencecal.py	/^    def _calc_volume_factor(self, zref):$/;"	m	class:RedSequenceCalibrator
+_calc_zreds	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _calc_zreds(self, gals, do_correction=True):$/;"	m	class:RedSequenceCalibrator
+_calc_zreds	redmapper/calibration/redsequencecal.py	/^    def _calc_zreds(self, gals, do_correction=True):$/;"	m	class:RedSequenceCalibrator
+_calculate_lndist	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^    def _calculate_lndist(self, galaxy, zbins):$/;"	m	class:ZredColor
+_calculate_lndist	redmapper/zred_color.py	/^    def _calculate_lndist(self, galaxy, zbins):$/;"	m	class:ZredColor
+_check_galaxies	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def _check_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+_check_galaxies	redmapper/galaxy.py	/^    def _check_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+_cleanup	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _cleanup(self):$/;"	m	class:ClusterRunner
+_cleanup	redmapper/cluster_runner.py	/^    def _cleanup(self):$/;"	m	class:ClusterRunner
+_compute_neighbor_r	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def _compute_neighbor_r(self):$/;"	m	class:Cluster
+_compute_neighbor_r	redmapper/cluster.py	/^    def _compute_neighbor_r(self):$/;"	m	class:Cluster
+_compute_single_lupcorr	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _compute_single_lupcorr(self, j, cvals, svals, gals, dmags, mags, lups, mind, sign):$/;"	m	class:RedSequenceCalibrator
+_compute_single_lupcorr	redmapper/calibration/redsequencecal.py	/^    def _compute_single_lupcorr(self, j, cvals, svals, gals, dmags, mags, lups, mind, sign):$/;"	m	class:RedSequenceCalibrator
+_compute_startvals	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _compute_startvals(self, nodes, z, val, xval=None, err=None, median=False, fit=False, mincomp=3):$/;"	m	class:RedSequenceCalibrator
+_compute_startvals	redmapper/calibration/redsequencecal.py	/^    def _compute_startvals(self, nodes, z, val, xval=None, err=None, median=False, fit=False, mincomp=3):$/;"	m	class:RedSequenceCalibrator
+_consolidate	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def _consolidate(self, hpixels, filenames, filetype, members=False, check=True):$/;"	m	class:RedmapperRun
+_consolidate	redmapper/redmapper_run.py	/^    def _consolidate(self, hpixels, filenames, filetype, members=False, check=True):$/;"	m	class:RedmapperRun
+_delta_bracket_fn	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _delta_bracket_fn(self, z):$/;"	m	class:Zlambda
+_delta_bracket_fn	redmapper/zlambda.py	/^    def _delta_bracket_fn(self, z):$/;"	m	class:Zlambda
+_doublerun_sort	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def _doublerun_sort(self):$/;"	m	class:RunColormem
+_doublerun_sort	redmapper/run_colormem.py	/^    def _doublerun_sort(self):$/;"	m	class:RunColormem
+_galfile_stats	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def _galfile_stats(self):$/;"	m	class:Configuration
+_galfile_stats	redmapper/configuration.py	/^    def _galfile_stats(self):$/;"	m	class:Configuration
+_gen_maskgals	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def _gen_maskgals(self, maskgalfile):$/;"	m	class:Mask
+_gen_maskgals	redmapper/mask.py	/^    def _gen_maskgals(self, maskgalfile):$/;"	m	class:Mask
+_generate_mem_match_ids	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _generate_mem_match_ids(self):$/;"	m	class:ClusterRunner
+_generate_mem_match_ids	redmapper/cluster_runner.py	/^    def _generate_mem_match_ids(self):$/;"	m	class:ClusterRunner
+_get_pixel_splits	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def _get_pixel_splits(self):$/;"	m	class:RedmapperRun
+_get_pixel_splits	redmapper/redmapper_run.py	/^    def _get_pixel_splits(self):$/;"	m	class:RedmapperRun
+_get_subpixels	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def _get_subpixels(self, nside_test, galtab):$/;"	m	class:RedmapperRun
+_get_subpixels	redmapper/redmapper_run.py	/^    def _get_subpixels(self, nside_test, galtab):$/;"	m	class:RedmapperRun
+_linfunc	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^        def _linfunc(p, x, y):$/;"	f	function:WcenCalibrator.run
+_linfunc	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^        def _linfunc(p, x, y):$/;"	f	function:RedSequenceCalibrator._compute_startvals
+_linfunc	redmapper/calibration/centeringcal.py	/^        def _linfunc(p, x, y):$/;"	f	function:WcenCalibrator.run
+_linfunc	redmapper/calibration/redsequencecal.py	/^        def _linfunc(p, x, y):$/;"	f	function:RedSequenceCalibrator._compute_startvals
+_lower_array	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def _lower_array(self, array):$/;"	m	class:DataObject
+_lower_array	redmapper/catalog.py	/^    def _lower_array(self, array):$/;"	m	class:DataObject
+_make_diagnostic_plots	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def _make_diagnostic_plots(self, gals):$/;"	m	class:RedSequenceCalibrator
+_make_diagnostic_plots	redmapper/calibration/redsequencecal.py	/^    def _make_diagnostic_plots(self, gals):$/;"	m	class:RedSequenceCalibrator
+_make_photoz_map	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def _make_photoz_map(self, z_spec, z_photo,$/;"	m	class:SpecPlot
+_make_photoz_map	redmapper/plotting.py	/^    def _make_photoz_map(self, z_spec, z_photo,$/;"	m	class:SpecPlot
+_merge_arrays	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def _merge_arrays(self, arrays):$/;"	m	class:DataObject
+_merge_arrays	redmapper/catalog.py	/^    def _merge_arrays(self, arrays):$/;"	m	class:DataObject
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:ClusterRunner
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunColormem
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/run_firstpass.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunFirstPass
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunLikelihoods
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/run_percolation.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunPercolation
+_more_setup	build/lib.linux-x86_64-2.7/redmapper/runcat.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunCatalog
+_more_setup	redmapper/cluster_runner.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:ClusterRunner
+_more_setup	redmapper/run_colormem.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunColormem
+_more_setup	redmapper/run_firstpass.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunFirstPass
+_more_setup	redmapper/run_likelihoods.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunLikelihoods
+_more_setup	redmapper/run_percolation.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunPercolation
+_more_setup	redmapper/runcat.py	/^    def _more_setup(self, *args, **kwargs):$/;"	m	class:RunCatalog
+_percolation_only_worker	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def _percolation_only_worker(self, hpix):$/;"	m	class:RedmapperRun
+_percolation_only_worker	redmapper/redmapper_run.py	/^    def _percolation_only_worker(self, hpix):$/;"	m	class:RedmapperRun
+_pickle_method	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def _pickle_method(m):$/;"	f
+_pickle_method	redmapper/utilities.py	/^def _pickle_method(m):$/;"	f
+_postprocess	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _postprocess(self):$/;"	m	class:ClusterRunner
+_postprocess	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def _postprocess(self):$/;"	m	class:RunColormem
+_postprocess	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def _postprocess(self):$/;"	m	class:RunLikelihoods
+_postprocess	redmapper/cluster_runner.py	/^    def _postprocess(self):$/;"	m	class:ClusterRunner
+_postprocess	redmapper/run_colormem.py	/^    def _postprocess(self):$/;"	m	class:RunColormem
+_postprocess	redmapper/run_likelihoods.py	/^    def _postprocess(self):$/;"	m	class:RunLikelihoods
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _process_cluster(self, cluster):$/;"	m	class:ClusterRunner
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunColormem
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/run_firstpass.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunFirstPass
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunLikelihoods
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/run_percolation.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunPercolation
+_process_cluster	build/lib.linux-x86_64-2.7/redmapper/runcat.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunCatalog
+_process_cluster	redmapper/cluster_runner.py	/^    def _process_cluster(self, cluster):$/;"	m	class:ClusterRunner
+_process_cluster	redmapper/run_colormem.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunColormem
+_process_cluster	redmapper/run_firstpass.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunFirstPass
+_process_cluster	redmapper/run_likelihoods.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunLikelihoods
+_process_cluster	redmapper/run_percolation.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunPercolation
+_process_cluster	redmapper/runcat.py	/^    def _process_cluster(self, cluster):$/;"	m	class:RunCatalog
+_read_mask	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def _read_mask(self):$/;"	m	class:VolumeLimitMask
+_read_mask	redmapper/volumelimit.py	/^    def _read_mask(self):$/;"	m	class:VolumeLimitMask
+_reset_bad_values	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _reset_bad_values(self, cluster):$/;"	m	class:ClusterRunner
+_reset_bad_values	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def _reset_bad_values(self, cluster):$/;"	m	class:RunLikelihoods
+_reset_bad_values	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^    def _reset_bad_values(self, galaxy):$/;"	m	class:ZredColor
+_reset_bad_values	redmapper/cluster_runner.py	/^    def _reset_bad_values(self, cluster):$/;"	m	class:ClusterRunner
+_reset_bad_values	redmapper/run_likelihoods.py	/^    def _reset_bad_values(self, cluster):$/;"	m	class:RunLikelihoods
+_reset_bad_values	redmapper/zred_color.py	/^    def _reset_bad_values(self, galaxy):$/;"	m	class:ZredColor
+_reset_vars	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def _reset_vars(self):$/;"	m	class:Configuration
+_reset_vars	redmapper/configuration.py	/^    def _reset_vars(self):$/;"	m	class:Configuration
+_schechter_montecarlo_calib	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def _schechter_montecarlo_calib(self, testing=False):$/;"	m	class:WcenCalibrator
+_schechter_montecarlo_calib	redmapper/calibration/centeringcal.py	/^    def _schechter_montecarlo_calib(self, testing=False):$/;"	m	class:WcenCalibrator
+_set_lengths	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def _set_lengths(self, l, length):$/;"	m	class:Configuration
+_set_lengths	redmapper/configuration.py	/^    def _set_lengths(self, l, length):$/;"	m	class:Configuration
+_set_vars_from_dict	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def _set_vars_from_dict(self, d, check_none=False):$/;"	m	class:Configuration
+_set_vars_from_dict	redmapper/configuration.py	/^    def _set_vars_from_dict(self, d, check_none=False):$/;"	m	class:Configuration
+_setup	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def _setup(self):$/;"	m	class:ClusterRunner
+_setup	redmapper/cluster_runner.py	/^    def _setup(self):$/;"	m	class:ClusterRunner
+_setup_cluster	tests/test_centering.py	/^    def _setup_cluster(self):$/;"	m	class:CenteringTestCase
+_update_mpc_scale	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def _update_mpc_scale(self):$/;"	m	class:Cluster
+_update_mpc_scale	redmapper/cluster.py	/^    def _update_mpc_scale(self):$/;"	m	class:Cluster
+_update_mstar	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def _update_mstar(self):$/;"	m	class:Cluster
+_update_mstar	redmapper/cluster.py	/^    def _update_mstar(self):$/;"	m	class:Cluster
+_wcen_vals	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def _wcen_vals(self):$/;"	m	class:Configuration
+_wcen_vals	redmapper/configuration.py	/^    def _wcen_vals(self):$/;"	m	class:Configuration
+_worker	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def _worker(self, zbinmark):$/;"	m	class:BackgroundGenerator
+_worker	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def _worker(self, hpix):$/;"	m	class:RedmapperRun
+_worker	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def _worker(self, ind_range):$/;"	m	class:ZredRunCatalog
+_worker	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def _worker(self, index):$/;"	m	class:ZredRunPixels
+_worker	redmapper/background.py	/^    def _worker(self, zbinmark):$/;"	m	class:BackgroundGenerator
+_worker	redmapper/redmapper_run.py	/^    def _worker(self, hpix):$/;"	m	class:RedmapperRun
+_worker	redmapper/zred_runner.py	/^    def _worker(self, ind_range):$/;"	m	class:ZredRunCatalog
+_worker	redmapper/zred_runner.py	/^    def _worker(self, index):$/;"	m	class:ZredRunPixels
+_zlambda_calc_gaussian_err	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _zlambda_calc_gaussian_err(self, z_lambda):$/;"	m	class:Zlambda
+_zlambda_calc_gaussian_err	redmapper/zlambda.py	/^    def _zlambda_calc_gaussian_err(self, z_lambda):$/;"	m	class:Zlambda
+_zlambda_calc_pz	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _zlambda_calc_pz(self, z_lambda, wtvals, maxrad, maxmag, slow=False):$/;"	m	class:Zlambda
+_zlambda_calc_pz	redmapper/zlambda.py	/^    def _zlambda_calc_pz(self, z_lambda, wtvals, maxrad, maxmag, slow=False):$/;"	m	class:Zlambda
+_zlambda_calc_pz_and_check	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _zlambda_calc_pz_and_check(self, z_lambda, wtvals, maxrad, maxmag, convergence_warning=False):$/;"	m	class:Zlambda
+_zlambda_calc_pz_and_check	redmapper/zlambda.py	/^    def _zlambda_calc_pz_and_check(self, z_lambda, wtvals, maxrad, maxmag, convergence_warning=False):$/;"	m	class:Zlambda
+_zlambda_calcz	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _zlambda_calcz(self, z_lambda):$/;"	m	class:Zlambda
+_zlambda_calcz	redmapper/zlambda.py	/^    def _zlambda_calcz(self, z_lambda):$/;"	m	class:Zlambda
+_zlambda_select_neighbors	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def _zlambda_select_neighbors(self, wtvals, maxrad, maxmag):$/;"	m	class:Zlambda
+_zlambda_select_neighbors	redmapper/zlambda.py	/^    def _zlambda_select_neighbors(self, wtvals, maxrad, maxmag):$/;"	m	class:Zlambda
+add_fields	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def add_fields(self, newdtype):$/;"	m	class:DataObject
+add_fields	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def add_fields(self, newdtype):$/;"	m	class:Entry
+add_fields	redmapper/catalog.py	/^    def add_fields(self, newdtype):$/;"	m	class:DataObject
+add_fields	redmapper/catalog.py	/^    def add_fields(self, newdtype):$/;"	m	class:Entry
+add_zred_fields	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def add_zred_fields(self):$/;"	m	class:GalaxyCatalog
+add_zred_fields	redmapper/galaxy.py	/^    def add_zred_fields(self):$/;"	m	class:GalaxyCatalog
+allocated	redmapper/chisq_dist/chisq_dist_pywrap.c	/^    int allocated;$/;"	m	struct:ChisqDistObject	file:
+allocated	redmapper/solver_nfw/solver_nfw_pywrap.c	/^    int allocated;$/;"	m	struct:SolverObject	file:
+append	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def append(self, append_cat):$/;"	m	class:Catalog
+append	redmapper/catalog.py	/^    def append(self, append_cat):$/;"	m	class:Catalog
+append_galaxies	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def append_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+append_galaxies	redmapper/galaxy.py	/^    def append_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+applyErrorModel	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^def applyErrorModel(pars, magIn, noNoise=False, lnscat=None):$/;"	f
+applyErrorModel	redmapper/depth_fitting.py	/^def applyErrorModel(pars, magIn, noNoise=False, lnscat=None):$/;"	f
+apply_correction	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def apply_correction(self, lam, zlam, zlam_e, pzbins=None, pzvals=None, noerr=False):$/;"	m	class:ZlambdaCorrectionPar
+apply_correction	redmapper/zlambda.py	/^    def apply_correction(self, lam, zlam, zlam_e, pzbins=None, pzvals=None, noerr=False):$/;"	m	class:ZlambdaCorrectionPar
+apply_errormodels	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def apply_errormodels(maskgals, mag_in, b=None, err_ratio=1.0, fluxmode=False,$/;"	f
+apply_errormodels	redmapper/utilities.py	/^def apply_errormodels(maskgals, mag_in, b=None, err_ratio=1.0, fluxmode=False,$/;"	f
+area	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    area = ConfigField(required=True)$/;"	v	class:Configuration
+area	redmapper/configuration.py	/^    area = ConfigField(required=True)$/;"	v	class:Configuration
+area_coarsebin	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    area_coarsebin = ConfigField(default=0.005, required=True)$/;"	v	class:Configuration
+area_coarsebin	redmapper/configuration.py	/^    area_coarsebin = ConfigField(default=0.005, required=True)$/;"	v	class:Configuration
+area_finebin	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    area_finebin = ConfigField(default=0.001, required=True)$/;"	v	class:Configuration
+area_finebin	redmapper/configuration.py	/^    area_finebin = ConfigField(default=0.001, required=True)$/;"	v	class:Configuration
+args	bin/redmagic_calibrate.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmagic_run.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_batch.py	/^args = parser.parse_args()$/;"	v
+args	bin/redmapper_calibrate.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_consolidate_run.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_convert_depthfile_to_healsparse.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_convert_mask_to_healsparse.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_make_zred_bkg.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_run_redmapper_pixel.py	/^    args = parser.parse_args()$/;"	v
+args	bin/redmapper_run_zred_pixel.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmagic_calibrate.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmagic_run.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_batch.py	/^args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_calibrate.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_consolidate_run.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_make_zred_bkg.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^    args = parser.parse_args()$/;"	v
+args	build/scripts-2.7/redmapper_run_zred_pixel.py	/^    args = parser.parse_args()$/;"	v
+astro_to_sphere	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def astro_to_sphere(ra, dec):$/;"	f
+astro_to_sphere	redmapper/utilities.py	/^def astro_to_sphere(ra, dec):$/;"	f
+author	setup.py	/^    author='Eli Rykoff, Brett Harvey',$/;"	v
+author_email	setup.py	/^    author_email='erykoff@slac.stanford.edu, rbharvey@stanford.edu',$/;"	v
+b	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    b = ConfigField(isArray=True)$/;"	v	class:Configuration
+b	redmapper/configuration.py	/^    b = ConfigField(isArray=True)$/;"	v	class:Configuration
+bands	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bands = ConfigField(required=True)$/;"	v	class:Configuration
+bands	redmapper/configuration.py	/^    bands = ConfigField(required=True)$/;"	v	class:Configuration
+batchconfig	bin/redmapper_batch.py	/^batchconfig = load_batchconfig(batchconfigfile)$/;"	v
+batchconfig	build/scripts-2.7/redmapper_batch.py	/^batchconfig = load_batchconfig(batchconfigfile)$/;"	v
+batchconfigfile	bin/redmapper_batch.py	/^batchconfigfile = os.path.join(os.environ['HOME'], '.redmapper_batch.yml')$/;"	v
+batchconfigfile	build/scripts-2.7/redmapper_batch.py	/^batchconfigfile = os.path.join(os.environ['HOME'], '.redmapper_batch.yml')$/;"	v
+batchmode	bin/redmapper_batch.py	/^    batchmode = args.batchmode$/;"	v
+batchmode	bin/redmapper_batch.py	/^    batchmode = batchconfig.keys()[0]$/;"	v
+batchmode	build/scripts-2.7/redmapper_batch.py	/^    batchmode = args.batchmode$/;"	v
+batchmode	build/scripts-2.7/redmapper_batch.py	/^    batchmode = batchconfig.keys()[0]$/;"	v
+bcounts	redmapper/solver_nfw/solver_nfw.h	/^    double *bcounts;$/;"	m	struct:solver
+beta	redmapper/solver_nfw/solver_nfw.h	/^    double beta;$/;"	m	struct:solver
+bkg_chisqbinsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkg_chisqbinsize = ConfigField(default=0.5)$/;"	v	class:Configuration
+bkg_chisqbinsize	redmapper/configuration.py	/^    bkg_chisqbinsize = ConfigField(default=0.5)$/;"	v	class:Configuration
+bkg_deepmode	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkg_deepmode = ConfigField(default=False)$/;"	v	class:Configuration
+bkg_deepmode	redmapper/configuration.py	/^    bkg_deepmode = ConfigField(default=False)$/;"	v	class:Configuration
+bkg_refmagbinsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkg_refmagbinsize = ConfigField(default=0.2)$/;"	v	class:Configuration
+bkg_refmagbinsize	redmapper/configuration.py	/^    bkg_refmagbinsize = ConfigField(default=0.2)$/;"	v	class:Configuration
+bkg_zbinsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkg_zbinsize = ConfigField(default=0.02)$/;"	v	class:Configuration
+bkg_zbinsize	redmapper/configuration.py	/^    bkg_zbinsize = ConfigField(default=0.02)$/;"	v	class:Configuration
+bkg_zredbinsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkg_zredbinsize = ConfigField(default=0.01)$/;"	v	class:Configuration
+bkg_zredbinsize	redmapper/configuration.py	/^    bkg_zredbinsize = ConfigField(default=0.01)$/;"	v	class:Configuration
+bkgfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkgfile = ConfigField()$/;"	v	class:Configuration
+bkgfile	redmapper/configuration.py	/^    bkgfile = ConfigField()$/;"	v	class:Configuration
+bkgfile_color	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    bkgfile_color = ConfigField()$/;"	v	class:Configuration
+bkgfile_color	redmapper/configuration.py	/^    bkgfile_color = ConfigField()$/;"	v	class:Configuration
+border	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    border = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+border	redmapper/configuration.py	/^    border = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+c	redmapper/chisq_dist/chisq_dist.h	/^    double *c;$/;"	m	struct:chisq_dist
+calcErrorModel	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^def calcErrorModel(_mag, _magErr, nSig=10.0, doPlot=False, nTrial=100, calcErr=False,$/;"	f
+calcErrorModel	redmapper/depth_fitting.py	/^def calcErrorModel(_mag, _magErr, nSig=10.0, doPlot=False, nTrial=100, calcErr=False,$/;"	f
+calc_areas	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^    def calc_areas(self, mags):$/;"	m	class:DepthMap
+calc_areas	redmapper/depthmap.py	/^    def calc_areas(self, mags):$/;"	m	class:DepthMap
+calc_bkg_density	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_bkg_density(self, r, chisq, refmag):$/;"	m	class:Cluster
+calc_bkg_density	redmapper/cluster.py	/^    def calc_bkg_density(self, r, chisq, refmag):$/;"	m	class:Cluster
+calc_cbkg_density	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_cbkg_density(self, r, col_index, col, refmag):$/;"	m	class:Cluster
+calc_cbkg_density	redmapper/cluster.py	/^    def calc_cbkg_density(self, r, col_index, col, refmag):$/;"	m	class:Cluster
+calc_lambdacerr	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_lambdacerr(self, maskgals, mstar, lam, rlam, pmem, cval, gamma):$/;"	m	class:Cluster
+calc_lambdacerr	redmapper/cluster.py	/^    def calc_lambdacerr(self, maskgals, mstar, lam, rlam, pmem, cval, gamma):$/;"	m	class:Cluster
+calc_maskcorr	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def calc_maskcorr(self, mstar, maxmag, limmag):$/;"	m	class:Mask
+calc_maskcorr	redmapper/mask.py	/^    def calc_maskcorr(self, mstar, maxmag, limmag):$/;"	m	class:Mask
+calc_maskdepth	build/lib.linux-x86_64-2.7/redmapper/depth_fitting.py	/^    def calc_maskdepth(self, maskgals, mag, mag_err):$/;"	m	class:DepthLim
+calc_maskdepth	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^    def calc_maskdepth(self, maskgals, ra, dec, mpc_scale):$/;"	m	class:DepthMap
+calc_maskdepth	redmapper/depth_fitting.py	/^    def calc_maskdepth(self, maskgals, mag, mag_err):$/;"	m	class:DepthLim
+calc_maskdepth	redmapper/depthmap.py	/^    def calc_maskdepth(self, maskgals, ra, dec, mpc_scale):$/;"	m	class:DepthMap
+calc_richness	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_richness(self, mask, calc_err=True, index=None):$/;"	m	class:Cluster
+calc_richness	redmapper/cluster.py	/^    def calc_richness(self, mask, calc_err=True, index=None):$/;"	m	class:Cluster
+calc_richness_fit	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_richness_fit(self, mask, col_index, centcolor_in=None, rcut=0.5, mingal=5, sigint=0.05, calc_err=False):$/;"	m	class:Cluster
+calc_richness_fit	redmapper/cluster.py	/^    def calc_richness_fit(self, mask, col_index, centcolor_in=None, rcut=0.5, mingal=5, sigint=0.05, calc_err=False):$/;"	m	class:Cluster
+calc_theta_i	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def calc_theta_i(mag, mag_err, maxmag, limmag):$/;"	f
+calc_theta_i	redmapper/utilities.py	/^def calc_theta_i(mag, mag_err, maxmag, limmag):$/;"	f
+calc_zlambda	build/lib.linux-x86_64-2.7/redmapper/zlambda.py	/^    def calc_zlambda(self, zin, mask, maxmag_in=None, calcpz=False, calc_err=True,$/;"	m	class:Zlambda
+calc_zlambda	redmapper/zlambda.py	/^    def calc_zlambda(self, zin, mask, maxmag_in=None, calcpz=False, calc_err=True,$/;"	m	class:Zlambda
+calc_zmax	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def calc_zmax(self, ra, dec):$/;"	m	class:VolumeLimitMaskFixed
+calc_zmax	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def calc_zmax(self, ras, decs, get_fracgood=False):$/;"	m	class:VolumeLimitMask
+calc_zmax	redmapper/volumelimit.py	/^    def calc_zmax(self, ra, dec):$/;"	m	class:VolumeLimitMaskFixed
+calc_zmax	redmapper/volumelimit.py	/^    def calc_zmax(self, ras, decs, get_fracgood=False):$/;"	m	class:VolumeLimitMask
+calc_zred_bkg_density	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def calc_zred_bkg_density(self, r, zred, refmag):$/;"	m	class:Cluster
+calc_zred_bkg_density	redmapper/cluster.py	/^    def calc_zred_bkg_density(self, r, zred, refmag):$/;"	m	class:Cluster
+calculate_chisq	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def calculate_chisq(self, galaxies, z, calc_lkhd=False, z_is_index=False):$/;"	m	class:RedSequenceColorPar
+calculate_chisq	redmapper/redsequence.py	/^    def calculate_chisq(self, galaxies, z, calc_lkhd=False, z_is_index=False):$/;"	m	class:RedSequenceColorPar
+calculate_chisq_redshifts	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def calculate_chisq_redshifts(self, galaxy, zs, calc_lkhd=False, z_is_index=False):$/;"	m	class:RedSequenceColorPar
+calculate_chisq_redshifts	redmapper/redsequence.py	/^    def calculate_chisq_redshifts(self, galaxy, zs, calc_lkhd=False, z_is_index=False):$/;"	m	class:RedSequenceColorPar
+calib	bin/redmagic_calibrate.py	/^    calib = redmapper.redmagic.RedmagicCalibrator(args.configfile)$/;"	v
+calib	bin/redmapper_calibrate.py	/^    calib = redmapper.calibration.RedmapperCalibrator(args.configfile)$/;"	v
+calib	build/scripts-2.7/redmagic_calibrate.py	/^    calib = redmapper.redmagic.RedmagicCalibrator(args.configfile)$/;"	v
+calib	build/scripts-2.7/redmapper_calibrate.py	/^    calib = redmapper.calibration.RedmapperCalibrator(args.configfile)$/;"	v
+calib_color_maxnodes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_color_maxnodes = ConfigField(isArray=True, default=np.array([-1.0]))$/;"	v	class:Configuration
+calib_color_maxnodes	redmapper/configuration.py	/^    calib_color_maxnodes = ConfigField(isArray=True, default=np.array([-1.0]))$/;"	v	class:Configuration
+calib_color_nodesizes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_color_nodesizes = ConfigField(isArray=True, default=np.array([0.05]))$/;"	v	class:Configuration
+calib_color_nodesizes	redmapper/configuration.py	/^    calib_color_nodesizes = ConfigField(isArray=True, default=np.array([0.05]))$/;"	v	class:Configuration
+calib_color_nsig	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_color_nsig = ConfigField(default=1.5)$/;"	v	class:Configuration
+calib_color_nsig	redmapper/configuration.py	/^    calib_color_nsig = ConfigField(default=1.5)$/;"	v	class:Configuration
+calib_color_order	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_color_order = ConfigField(isArray=True, default=np.array([-1]))$/;"	v	class:Configuration
+calib_color_order	redmapper/configuration.py	/^    calib_color_order = ConfigField(isArray=True, default=np.array([-1]))$/;"	v	class:Configuration
+calib_color_pcut	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_color_pcut = ConfigField(default=0.7)$/;"	v	class:Configuration
+calib_color_pcut	redmapper/configuration.py	/^    calib_color_pcut = ConfigField(default=0.7)$/;"	v	class:Configuration
+calib_colormem_beta	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_beta = ConfigField(default=0.0)$/;"	v	class:Configuration
+calib_colormem_beta	redmapper/configuration.py	/^    calib_colormem_beta = ConfigField(default=0.0)$/;"	v	class:Configuration
+calib_colormem_colormodes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_colormodes = ConfigField(isArray=True, default=np.array([1, 2]))$/;"	v	class:Configuration
+calib_colormem_colormodes	redmapper/configuration.py	/^    calib_colormem_colormodes = ConfigField(isArray=True, default=np.array([1, 2]))$/;"	v	class:Configuration
+calib_colormem_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_minlambda = ConfigField(default=10.0)$/;"	v	class:Configuration
+calib_colormem_minlambda	redmapper/configuration.py	/^    calib_colormem_minlambda = ConfigField(default=10.0)$/;"	v	class:Configuration
+calib_colormem_r0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_r0 = ConfigField(default=0.5)$/;"	v	class:Configuration
+calib_colormem_r0	redmapper/configuration.py	/^    calib_colormem_r0 = ConfigField(default=0.5)$/;"	v	class:Configuration
+calib_colormem_sigint	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_sigint = ConfigField(isArray=True, default=np.array([0.05, 0.03]))$/;"	v	class:Configuration
+calib_colormem_sigint	redmapper/configuration.py	/^    calib_colormem_sigint = ConfigField(isArray=True, default=np.array([0.05, 0.03]))$/;"	v	class:Configuration
+calib_colormem_smooth	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_smooth = ConfigField(default=0.003)$/;"	v	class:Configuration
+calib_colormem_smooth	redmapper/configuration.py	/^    calib_colormem_smooth = ConfigField(default=0.003)$/;"	v	class:Configuration
+calib_colormem_zbounds	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_colormem_zbounds = ConfigField(isArray=True, default=np.array([0.4]))$/;"	v	class:Configuration
+calib_colormem_zbounds	redmapper/configuration.py	/^    calib_colormem_zbounds = ConfigField(isArray=True, default=np.array([0.4]))$/;"	v	class:Configuration
+calib_corr_nocorrslope	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_corr_nocorrslope = ConfigField(default=True)$/;"	v	class:Configuration
+calib_corr_nocorrslope	redmapper/configuration.py	/^    calib_corr_nocorrslope = ConfigField(default=True)$/;"	v	class:Configuration
+calib_corr_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_corr_nodesize = ConfigField(default=0.05)$/;"	v	class:Configuration
+calib_corr_nodesize	redmapper/configuration.py	/^    calib_corr_nodesize = ConfigField(default=0.05)$/;"	v	class:Configuration
+calib_corr_pcut	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_corr_pcut = ConfigField(default=0.9)$/;"	v	class:Configuration
+calib_corr_pcut	redmapper/configuration.py	/^    calib_corr_pcut = ConfigField(default=0.9)$/;"	v	class:Configuration
+calib_corr_slope_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_corr_slope_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_corr_slope_nodesize	redmapper/configuration.py	/^    calib_corr_slope_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_covmat_maxnodes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_covmat_maxnodes = ConfigField(isArray=True, default=np.array([-1.0]))$/;"	v	class:Configuration
+calib_covmat_maxnodes	redmapper/configuration.py	/^    calib_covmat_maxnodes = ConfigField(isArray=True, default=np.array([-1.0]))$/;"	v	class:Configuration
+calib_covmat_min_eigenvalue	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_covmat_min_eigenvalue = ConfigField(default=0.0001)$/;"	v	class:Configuration
+calib_covmat_min_eigenvalue	redmapper/configuration.py	/^    calib_covmat_min_eigenvalue = ConfigField(default=0.0001)$/;"	v	class:Configuration
+calib_covmat_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_covmat_nodesize = ConfigField(default=0.15)$/;"	v	class:Configuration
+calib_covmat_nodesize	redmapper/configuration.py	/^    calib_covmat_nodesize = ConfigField(default=0.15)$/;"	v	class:Configuration
+calib_covmat_prior	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_covmat_prior = ConfigField(default=0.45)$/;"	v	class:Configuration
+calib_covmat_prior	redmapper/configuration.py	/^    calib_covmat_prior = ConfigField(default=0.45)$/;"	v	class:Configuration
+calib_lumfunc_alpha	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_lumfunc_alpha = ConfigField(default=-1.0, required=True)$/;"	v	class:Configuration
+calib_lumfunc_alpha	redmapper/configuration.py	/^    calib_lumfunc_alpha = ConfigField(default=-1.0, required=True)$/;"	v	class:Configuration
+calib_make_full_bkg	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_make_full_bkg = ConfigField(default=True)$/;"	v	class:Configuration
+calib_make_full_bkg	redmapper/configuration.py	/^    calib_make_full_bkg = ConfigField(default=True)$/;"	v	class:Configuration
+calib_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_minlambda = ConfigField(default=5.0)$/;"	v	class:Configuration
+calib_minlambda	redmapper/configuration.py	/^    calib_minlambda = ConfigField(default=5.0)$/;"	v	class:Configuration
+calib_niter	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_niter = ConfigField(default=3)$/;"	v	class:Configuration
+calib_niter	redmapper/configuration.py	/^    calib_niter = ConfigField(default=3)$/;"	v	class:Configuration
+calib_nproc	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_nproc = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_nproc	redmapper/configuration.py	/^    calib_nproc = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_pcut	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_pcut = ConfigField(default=0.3)$/;"	v	class:Configuration
+calib_pcut	redmapper/configuration.py	/^    calib_pcut = ConfigField(default=0.3)$/;"	v	class:Configuration
+calib_pivotmag_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_pivotmag_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_pivotmag_nodesize	redmapper/configuration.py	/^    calib_pivotmag_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_redgal_template	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_redgal_template = ConfigField()$/;"	v	class:Configuration
+calib_redgal_template	redmapper/configuration.py	/^    calib_redgal_template = ConfigField()$/;"	v	class:Configuration
+calib_redspec_nsig	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_redspec_nsig = ConfigField(default=2.0)$/;"	v	class:Configuration
+calib_redspec_nsig	redmapper/configuration.py	/^    calib_redspec_nsig = ConfigField(default=2.0)$/;"	v	class:Configuration
+calib_run_min_nside	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_run_min_nside = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_run_min_nside	redmapper/configuration.py	/^    calib_run_min_nside = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_run_nproc	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_run_nproc = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_run_nproc	redmapper/configuration.py	/^    calib_run_nproc = ConfigField(default=1, required=True)$/;"	v	class:Configuration
+calib_slope_nodesizes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_slope_nodesizes = ConfigField(isArray=True, default=np.array([0.1]))$/;"	v	class:Configuration
+calib_slope_nodesizes	redmapper/configuration.py	/^    calib_slope_nodesizes = ConfigField(isArray=True, default=np.array([0.1]))$/;"	v	class:Configuration
+calib_smooth	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_smooth = ConfigField(default=0.003)$/;"	v	class:Configuration
+calib_smooth	redmapper/configuration.py	/^    calib_smooth = ConfigField(default=0.003)$/;"	v	class:Configuration
+calib_use_pcol	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_use_pcol = ConfigField(default=True)$/;"	v	class:Configuration
+calib_use_pcol	redmapper/configuration.py	/^    calib_use_pcol = ConfigField(default=True)$/;"	v	class:Configuration
+calib_zlambda_clean_nsig	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zlambda_clean_nsig = ConfigField(default=5.0)$/;"	v	class:Configuration
+calib_zlambda_clean_nsig	redmapper/configuration.py	/^    calib_zlambda_clean_nsig = ConfigField(default=5.0)$/;"	v	class:Configuration
+calib_zlambda_correct_niter	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zlambda_correct_niter = ConfigField(default=3)$/;"	v	class:Configuration
+calib_zlambda_correct_niter	redmapper/configuration.py	/^    calib_zlambda_correct_niter = ConfigField(default=3)$/;"	v	class:Configuration
+calib_zlambda_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zlambda_minlambda = ConfigField(default=20.0)$/;"	v	class:Configuration
+calib_zlambda_minlambda	redmapper/configuration.py	/^    calib_zlambda_minlambda = ConfigField(default=20.0)$/;"	v	class:Configuration
+calib_zlambda_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zlambda_nodesize = ConfigField(default=0.04)$/;"	v	class:Configuration
+calib_zlambda_nodesize	redmapper/configuration.py	/^    calib_zlambda_nodesize = ConfigField(default=0.04)$/;"	v	class:Configuration
+calib_zlambda_slope_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zlambda_slope_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_zlambda_slope_nodesize	redmapper/configuration.py	/^    calib_zlambda_slope_nodesize = ConfigField(default=0.1)$/;"	v	class:Configuration
+calib_zrange_cushion	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    calib_zrange_cushion = ConfigField(default=0.05)$/;"	v	class:Configuration
+calib_zrange_cushion	redmapper/configuration.py	/^    calib_zrange_cushion = ConfigField(default=0.05)$/;"	v	class:Configuration
+catfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    catfile = ConfigField()$/;"	v	class:Configuration
+catfile	redmapper/configuration.py	/^    catfile = ConfigField()$/;"	v	class:Configuration
+centerclass	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    centerclass = ConfigField(default='CenteringBCG', required=True)$/;"	v	class:Configuration
+centerclass	redmapper/configuration.py	/^    centerclass = ConfigField(default='CenteringBCG', required=True)$/;"	v	class:Configuration
+check_and_fix_covmat	redmapper/chisq_dist/chisq_dist.c	/^int check_and_fix_covmat(gsl_matrix *covmat) {$/;"	f
+check_files	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def check_files(self, check_zredfile=False, check_bkgfile=False, check_bkgfile_components=False,$/;"	m	class:Configuration
+check_files	redmapper/configuration.py	/^    def check_files(self, check_zredfile=False, check_bkgfile=False, check_bkgfile_components=False,$/;"	m	class:Configuration
+chisq_dist	redmapper/chisq_dist/chisq_dist.c	/^int chisq_dist(int mode, int do_chisq, int nophotoerr, int ncalc, int ncol, $/;"	f
+chisq_dist	redmapper/chisq_dist/chisq_dist.h	/^struct chisq_dist {$/;"	s
+chisq_dist	redmapper/chisq_dist/chisq_dist_pywrap.c	/^    struct chisq_dist* chisq_dist;$/;"	m	struct:ChisqDistObject	typeref:struct:ChisqDistObject::chisq_dist	file:
+chisq_dist_module	setup.py	/^chisq_dist_module = Extension('redmapper.chisq_dist._chisq_dist_pywrap',$/;"	v
+chisq_dist_sources	setup.py	/^chisq_dist_sources=['redmapper\/chisq_dist\/chisq_dist.c',$/;"	v
+chisq_max	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    chisq_max = ConfigField(default=20.0, required=True)$/;"	v	class:Configuration
+chisq_max	redmapper/configuration.py	/^    chisq_max = ConfigField(default=20.0, required=True)$/;"	v	class:Configuration
+chisq_pdf	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def chisq_pdf(data, k):$/;"	f
+chisq_pdf	redmapper/utilities.py	/^def chisq_pdf(data, k):$/;"	f
+cic	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def cic(value, posx=None, nx=None, posy=None, ny=None, posz=None, nz=None, average=False, isolated=True):$/;"	f
+cic	redmapper/utilities.py	/^def cic(value, posx=None, nx=None, posy=None, ny=None, posz=None, nz=None, average=False, isolated=True):$/;"	f
+clear_neighbors	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def clear_neighbors(self):$/;"	m	class:Cluster
+clear_neighbors	redmapper/cluster.py	/^    def clear_neighbors(self):$/;"	m	class:Cluster
+cluster_dtype_base	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^cluster_dtype_base = [('MEM_MATCH_ID', 'i4'),$/;"	v
+cluster_dtype_base	redmapper/cluster.py	/^cluster_dtype_base = [('MEM_MATCH_ID', 'i4'),$/;"	v
+cmd	bin/redmapper_batch.py	/^        cmd = 'redmapper_run_redmapper_pixel.py -c %s -p ${pixarr[%s]} -n %d -d %s' % ($/;"	v
+cmd	bin/redmapper_batch.py	/^        cmd = 'redmapper_run_zred_pixel.py -c %s -p ${pixarr[%s]} -n %d -d %s' % ($/;"	v
+cmd	build/scripts-2.7/redmapper_batch.py	/^        cmd = 'redmapper_run_redmapper_pixel.py -c %s -p ${pixarr[%s]} -n %d -d %s' % ($/;"	v
+cmd	build/scripts-2.7/redmapper_batch.py	/^        cmd = 'redmapper_run_zred_pixel.py -c %s -p ${pixarr[%s]} -n %d -d %s' % ($/;"	v
+cmdclass	setup.py	/^    cmdclass={'clean': CleanCommand}$/;"	v
+color	redmapper/chisq_dist/chisq_dist.h	/^    double *color;$/;"	m	struct:chisq_dist
+compute_border	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def compute_border(self):$/;"	m	class:Configuration
+compute_border	redmapper/configuration.py	/^    def compute_border(self):$/;"	m	class:Configuration
+compute_chisq	build/lib.linux-x86_64-2.7/redmapper/chisq_dist/chisq_dist_lib.py	/^def compute_chisq(covmat, c, slope, pivotmag, refmag, magerr, color, refmagerr=None, lupcorr=None, calc_chisq=True, calc_lkhd=False, nophotoerr=False):$/;"	f
+compute_chisq	redmapper/chisq_dist/chisq_dist_lib.py	/^def compute_chisq(covmat, c, slope, pivotmag, refmag, magerr, color, refmagerr=None, lupcorr=None, calc_chisq=True, calc_lkhd=False, nophotoerr=False):$/;"	f
+compute_radmask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def compute_radmask(self, ra, dec):$/;"	m	class:Mask
+compute_radmask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def compute_radmask(self, ras, decs):$/;"	m	class:HPMask
+compute_radmask	redmapper/mask.py	/^    def compute_radmask(self, ra, dec):$/;"	m	class:Mask
+compute_radmask	redmapper/mask.py	/^    def compute_radmask(self, ras, decs):$/;"	m	class:HPMask
+compute_zred	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^    def compute_zred(self, galaxy, no_corrections=False):$/;"	m	class:ZredColor
+compute_zred	redmapper/zred_color.py	/^    def compute_zred(self, galaxy, no_corrections=False):$/;"	m	class:ZredColor
+compute_zreds	build/lib.linux-x86_64-2.7/redmapper/zred_color.py	/^    def compute_zreds(self, galaxies):$/;"	m	class:ZredColor
+compute_zreds	redmapper/zred_color.py	/^    def compute_zreds(self, galaxies):$/;"	m	class:ZredColor
+config	bin/redmapper_batch.py	/^config = redmapper.Configuration(args.configfile)$/;"	v
+config	bin/redmapper_make_zred_bkg.py	/^    config = redmapper.Configuration(args.configfile)$/;"	v
+config	build/scripts-2.7/redmapper_batch.py	/^config = redmapper.Configuration(args.configfile)$/;"	v
+config	build/scripts-2.7/redmapper_make_zred_bkg.py	/^    config = redmapper.Configuration(args.configfile)$/;"	v
+consolidate	bin/redmapper_consolidate_run.py	/^    consolidate = redmapper.pipeline.RedmapperConsolidateTask(args.configfile, lambda_cuts=args.lambda_cuts, vlim_lstars=vlim_lstars)$/;"	v
+consolidate	build/scripts-2.7/redmapper_consolidate_run.py	/^    consolidate = redmapper.pipeline.RedmapperConsolidateTask(args.configfile, lambda_cuts=args.lambda_cuts, vlim_lstars=vlim_lstars)$/;"	v
+consolidate_lambda_cuts	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    consolidate_lambda_cuts = ConfigField(default=[5.0, 20.0], required=False, isArray=True)$/;"	v	class:Configuration
+consolidate_lambda_cuts	redmapper/configuration.py	/^    consolidate_lambda_cuts = ConfigField(default=[5.0, 20.0], required=False, isArray=True)$/;"	v	class:Configuration
+consolidate_vlim_lstars	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    consolidate_vlim_lstars = ConfigField(default=[0.2, 5.0], required=False, isList=True)$/;"	v	class:Configuration
+consolidate_vlim_lstars	redmapper/configuration.py	/^    consolidate_vlim_lstars = ConfigField(default=[0.2, 5.0], required=False, isList=True)$/;"	v	class:Configuration
+convert_depthfile_to_healsparse	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^def convert_depthfile_to_healsparse(depthfile, healsparsefile, nsideCoverage, clobber=False):$/;"	f
+convert_depthfile_to_healsparse	redmapper/depthmap.py	/^def convert_depthfile_to_healsparse(depthfile, healsparsefile, nsideCoverage, clobber=False):$/;"	f
+convert_maskfile_to_healsparse	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^def convert_maskfile_to_healsparse(maskfile, healsparsefile, nsideCoverage, clobber=False):$/;"	f
+convert_maskfile_to_healsparse	redmapper/mask.py	/^def convert_maskfile_to_healsparse(maskfile, healsparsefile, nsideCoverage, clobber=False):$/;"	f
+copy	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def copy(self):$/;"	m	class:Cluster
+copy	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def copy(self):$/;"	m	class:Configuration
+copy	redmapper/cluster.py	/^    def copy(self):$/;"	m	class:Cluster
+copy	redmapper/configuration.py	/^    def copy(self):$/;"	m	class:Configuration
+copyright	docs/conf.py	/^copyright = u'2012, Kenneth Reitz'$/;"	v
+covmask_nside_default	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    covmask_nside_default = ConfigField(default=32, required=True)$/;"	v	class:Configuration
+covmask_nside_default	redmapper/configuration.py	/^    covmask_nside_default = ConfigField(default=32, required=True)$/;"	v	class:Configuration
+covmat	redmapper/chisq_dist/chisq_dist.h	/^    double *covmat;$/;"	m	struct:chisq_dist
+cpars	redmapper/solver_nfw/solver_nfw.h	/^    double *cpars;$/;"	m	struct:solver
+create_batchconfig	bin/redmapper_batch.py	/^def create_batchconfig(filename):$/;"	f
+create_batchconfig	build/scripts-2.7/redmapper_batch.py	/^def create_batchconfig(filename):$/;"	f
+cwd	bin/redmapper_batch.py	/^cwd = os.getcwd()$/;"	v
+cwd	build/scripts-2.7/redmapper_batch.py	/^cwd = os.getcwd()$/;"	v
+dat	tests/data_for_tests/see_headers.py	/^dat = fitsio.read(filename, ext=1)$/;"	v
+data_files	setup.py	/^    data_files=[('redmapper\/data\/initcolors', initcolorfiles),$/;"	v
+default_walltime	bin/redmapper_batch.py	/^    default_walltime = 5*60$/;"	v
+default_walltime	bin/redmapper_batch.py	/^    default_walltime = 72*60$/;"	v
+default_walltime	build/scripts-2.7/redmapper_batch.py	/^    default_walltime = 5*60$/;"	v
+default_walltime	build/scripts-2.7/redmapper_batch.py	/^    default_walltime = 72*60$/;"	v
+depthfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    depthfile = ConfigField()$/;"	v	class:Configuration
+depthfile	redmapper/configuration.py	/^    depthfile = ConfigField()$/;"	v	class:Configuration
+description	setup.py	/^    description='Public, Python implementation of redMaPPer',$/;"	v
+dldr_gamma	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    dldr_gamma = ConfigField(default=0.6, required=True)$/;"	v	class:Configuration
+dldr_gamma	redmapper/configuration.py	/^    dldr_gamma = ConfigField(default=0.6, required=True)$/;"	v	class:Configuration
+dtype	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def dtype(self):$/;"	m	class:DataObject
+dtype	redmapper/catalog.py	/^    def dtype(self):$/;"	m	class:DataObject
+end	docs/make.bat	/^:end$/;"	l
+entry_class	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    entry_class = Entry$/;"	v	class:Catalog
+entry_class	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    entry_class = Cluster$/;"	v	class:ClusterCatalog
+entry_class	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    entry_class = Galaxy$/;"	v	class:GalaxyCatalog
+entry_class	redmapper/catalog.py	/^    entry_class = Entry$/;"	v	class:Catalog
+entry_class	redmapper/cluster.py	/^    entry_class = Cluster$/;"	v	class:ClusterCatalog
+entry_class	redmapper/galaxy.py	/^    entry_class = Galaxy$/;"	v	class:GalaxyCatalog
+exclude_patterns	docs/conf.py	/^exclude_patterns = ['_build']$/;"	v
+ext_modules	setup.py	/^    ext_modules=ext_modules,$/;"	v
+ext_modules	setup.py	/^ext_modules=[]$/;"	v
+extend	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def extend(self, n_new):$/;"	m	class:Catalog
+extend	redmapper/catalog.py	/^    def extend(self, n_new):$/;"	m	class:Catalog
+extensions	docs/conf.py	/^extensions = []$/;"	v
+extra_link_args	setup.py	/^                              extra_link_args=[os.path.expandvars('-L${GSLL}')],$/;"	v
+filename	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def filename(self):$/;"	m	class:ClusterRunner
+filename	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def filename(self):$/;"	m	class:NzPlot
+filename	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def filename(self):$/;"	m	class:SpecPlot
+filename	redmapper/cluster_runner.py	/^    def filename(self):$/;"	m	class:ClusterRunner
+filename	redmapper/plotting.py	/^    def filename(self):$/;"	m	class:NzPlot
+filename	redmapper/plotting.py	/^    def filename(self):$/;"	m	class:SpecPlot
+filename	tests/data_for_tests/see_headers.py	/^filename = "test_cluster_members.fit"$/;"	v
+finalize_catalog	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def finalize_catalog(self):$/;"	m	class:GalaxyCatalogMaker
+finalize_catalog	redmapper/galaxy.py	/^    def finalize_catalog(self):$/;"	m	class:GalaxyCatalogMaker
+finalize_options	setup.py	/^    def finalize_options(self):$/;"	m	class:CleanCommand
+find_center	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def find_center(self):$/;"	m	class:Centering
+find_center	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringBCG
+find_center	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringRandom
+find_center	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringRandomSatellite
+find_center	build/lib.linux-x86_64-2.7/redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringWcenZred
+find_center	redmapper/centering.py	/^    def find_center(self):$/;"	m	class:Centering
+find_center	redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringBCG
+find_center	redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringRandom
+find_center	redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringRandomSatellite
+find_center	redmapper/centering.py	/^    def find_center(self):$/;"	m	class:CenteringWcenZred
+find_neighbors	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def find_neighbors(self, radius, galcat, megaparsec=False, maxmag=None):$/;"	m	class:Cluster
+find_neighbors	redmapper/cluster.py	/^    def find_neighbors(self, radius, galcat, megaparsec=False, maxmag=None):$/;"	m	class:Cluster
+firstpass_beta	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    firstpass_beta = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+firstpass_beta	redmapper/configuration.py	/^    firstpass_beta = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+firstpass_centerclass	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    firstpass_centerclass = ConfigField(default='CenteringBCG', required=True)$/;"	v	class:Configuration
+firstpass_centerclass	redmapper/configuration.py	/^    firstpass_centerclass = ConfigField(default='CenteringBCG', required=True)$/;"	v	class:Configuration
+firstpass_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    firstpass_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+firstpass_minlambda	redmapper/configuration.py	/^    firstpass_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+firstpass_niter	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    firstpass_niter = ConfigField(default=2, required=True)$/;"	v	class:Configuration
+firstpass_niter	redmapper/configuration.py	/^    firstpass_niter = ConfigField(default=2, required=True)$/;"	v	class:Configuration
+firstpass_r0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    firstpass_r0 = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+firstpass_r0	redmapper/configuration.py	/^    firstpass_r0 = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+fit	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenCFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenCwFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenFgFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^    def fit(self, p0_delta, p0_slope, p0_scatter,$/;"	m	class:ZLambdaFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def fit(self, p0, full_covmats=None):$/;"	m	class:RedSequenceOffDiagonalFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def fit(self, p0, min_val=None, max_val=None):$/;"	m	class:MedZFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def fit(self, p0_mean, p0_slope, p0_r, p0_bkg, fit_mean=False, fit_slope=False, fit_r=False, fit_bkg=False):$/;"	m	class:CorrectionFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def fit(self, p0_mean, p0_slope, p0_scatter,$/;"	m	class:RedSequenceFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/fitters.py	/^    def fit(self, wt0, mu, sigma, bounds=None, offset=0.0):$/;"	m	class:EcgmmFitter
+fit	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def fit(self, p0_cval, biaspars=None, eratiopars=None, afterburner=False):$/;"	m	class:RedmagicParameterFitter
+fit	redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenCFitter
+fit	redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenCwFitter
+fit	redmapper/calibration/centeringcal.py	/^    def fit(self, p0):$/;"	m	class:WcenFgFitter
+fit	redmapper/calibration/zlambdacal.py	/^    def fit(self, p0_delta, p0_slope, p0_scatter,$/;"	m	class:ZLambdaFitter
+fit	redmapper/fitters.py	/^    def fit(self, p0, full_covmats=None):$/;"	m	class:RedSequenceOffDiagonalFitter
+fit	redmapper/fitters.py	/^    def fit(self, p0, min_val=None, max_val=None):$/;"	m	class:MedZFitter
+fit	redmapper/fitters.py	/^    def fit(self, p0_mean, p0_slope, p0_r, p0_bkg, fit_mean=False, fit_slope=False, fit_r=False, fit_bkg=False):$/;"	m	class:CorrectionFitter
+fit	redmapper/fitters.py	/^    def fit(self, p0_mean, p0_slope, p0_scatter,$/;"	m	class:RedSequenceFitter
+fit	redmapper/fitters.py	/^    def fit(self, wt0, mu, sigma, bounds=None, offset=0.0):$/;"	m	class:EcgmmFitter
+fit	redmapper/redmagic/redmagic_calibrate.py	/^    def fit(self, p0_cval, biaspars=None, eratiopars=None, afterburner=False):$/;"	m	class:RedmagicParameterFitter
+fit_bias_eratio	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def fit_bias_eratio(self, cval, p0_bias, p0_eratio):$/;"	m	class:RedmagicParameterFitter
+fit_bias_eratio	redmapper/redmagic/redmagic_calibrate.py	/^    def fit_bias_eratio(self, cval, p0_bias, p0_eratio):$/;"	m	class:RedmagicParameterFitter
+from_catfile	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def from_catfile(cls, filename, **kwargs):$/;"	m	class:ClusterCatalog
+from_catfile	redmapper/cluster.py	/^    def from_catfile(cls, filename, **kwargs):$/;"	m	class:ClusterCatalog
+from_fits_ext	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def from_fits_ext(cls, fits_ext):$/;"	m	class:DataObject
+from_fits_ext	redmapper/catalog.py	/^    def from_fits_ext(cls, fits_ext):$/;"	m	class:DataObject
+from_fits_file	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def from_fits_file(cls, filename, ext=1, rows=None):$/;"	m	class:DataObject
+from_fits_file	redmapper/catalog.py	/^    def from_fits_file(cls, filename, ext=1, rows=None):$/;"	m	class:DataObject
+from_galfile	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def from_galfile(cls, filename, zredfile=None, nside=0, hpix=0, border=0.0, truth=False):$/;"	m	class:GalaxyCatalog
+from_galfile	redmapper/galaxy.py	/^    def from_galfile(cls, filename, zredfile=None, nside=0, hpix=0, border=0.0, truth=False):$/;"	m	class:GalaxyCatalog
+galcol	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def galcol(self):$/;"	m	class:Galaxy
+galcol	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def galcol(self):$/;"	m	class:GalaxyCatalog
+galcol	redmapper/galaxy.py	/^    def galcol(self):$/;"	m	class:Galaxy
+galcol	redmapper/galaxy.py	/^    def galcol(self):$/;"	m	class:GalaxyCatalog
+galcol_err	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def galcol_err(self):$/;"	m	class:GalaxyCatalog
+galcol_err	redmapper/galaxy.py	/^    def galcol_err(self):$/;"	m	class:GalaxyCatalog
+galfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    galfile = ConfigField(required=True)$/;"	v	class:Configuration
+galfile	redmapper/configuration.py	/^    galfile = ConfigField(required=True)$/;"	v	class:Configuration
+galfile_nside	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    galfile_nside = ConfigField(required=True)$/;"	v	class:Configuration
+galfile_nside	redmapper/configuration.py	/^    galfile_nside = ConfigField(required=True)$/;"	v	class:Configuration
+galfile_pixelized	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    galfile_pixelized = ConfigField(required=True)$/;"	v	class:Configuration
+galfile_pixelized	redmapper/configuration.py	/^    galfile_pixelized = ConfigField(required=True)$/;"	v	class:Configuration
+gals	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^gals = redmapper.GalaxyCatalog.from_fits_file('redmagic_test_input_gals.fit')$/;"	v
+gaussFunction	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def gaussFunction(x, *p):$/;"	f
+gaussFunction	redmapper/utilities.py	/^def gaussFunction(x, *p):$/;"	f
+generate_randoms	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_randoms.py	/^    def generate_randoms(self, nrandoms, filename, clobber=False):$/;"	m	class:RedmagicGenerateRandoms
+generate_randoms	redmapper/redmagic/redmagic_randoms.py	/^    def generate_randoms(self, nrandoms, filename, clobber=False):$/;"	m	class:RedmagicGenerateRandoms
+getMemoryString	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def getMemoryString(location):$/;"	f
+getMemoryString	redmapper/utilities.py	/^def getMemoryString(location):$/;"	f
+get_areas	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def get_areas(self):$/;"	m	class:VolumeLimitMask
+get_areas	build/lib.linux-x86_64-2.7/redmapper/volumelimit.py	/^    def get_areas(self):$/;"	m	class:VolumeLimitMaskFixed
+get_areas	redmapper/volumelimit.py	/^    def get_areas(self):$/;"	m	class:VolumeLimitMask
+get_areas	redmapper/volumelimit.py	/^    def get_areas(self):$/;"	m	class:VolumeLimitMaskFixed
+get_colrange	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def get_colrange(self, bkg_index):$/;"	m	class:ColorBackground
+get_colrange	redmapper/color_background.py	/^    def get_colrange(self, bkg_index):$/;"	m	class:ColorBackground
+get_depth_values	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^    def get_depth_values(self, ras, decs):$/;"	m	class:DepthMap
+get_depth_values	redmapper/depthmap.py	/^    def get_depth_values(self, ras, decs):$/;"	m	class:DepthMap
+get_fracgoods	build/lib.linux-x86_64-2.7/redmapper/depthmap.py	/^    def get_fracgoods(self, ras, decs):$/;"	m	class:DepthMap
+get_fracgoods	redmapper/depthmap.py	/^    def get_fracgoods(self, ras, decs):$/;"	m	class:DepthMap
+get_galaxy_dtype	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def get_galaxy_dtype(nmag, truth=False):$/;"	m	class:GalaxyCatalogMaker
+get_galaxy_dtype	redmapper/galaxy.py	/^    def get_galaxy_dtype(nmag, truth=False):$/;"	m	class:GalaxyCatalogMaker
+get_healsparse_subpix_indices	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def get_healsparse_subpix_indices(subpix_nside, subpix_hpix, subpix_border, coverage_nside):$/;"	f
+get_healsparse_subpix_indices	redmapper/utilities.py	/^def get_healsparse_subpix_indices(subpix_nside, subpix_hpix, subpix_border, coverage_nside):$/;"	f
+get_hpmask_subpix_indices	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def get_hpmask_subpix_indices(submask_nside, submask_hpix, submask_border, nside_mask, hpix):$/;"	f
+get_hpmask_subpix_indices	redmapper/utilities.py	/^def get_hpmask_subpix_indices(submask_nside, submask_hpix, submask_border, nside_mask, hpix):$/;"	f
+get_mask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^def get_mask(config, include_maskgals=True):$/;"	f
+get_mask	redmapper/mask.py	/^def get_mask(config, include_maskgals=True):$/;"	f
+get_subpixel_indices	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^def get_subpixel_indices(galtable, hpix=None, border=0.0, nside=0):$/;"	f
+get_subpixel_indices	redmapper/galaxy.py	/^def get_subpixel_indices(galtable, hpix=None, border=0.0, nside=0):$/;"	f
+halofile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    halofile = ConfigField()$/;"	v	class:Configuration
+halofile	redmapper/configuration.py	/^    halofile = ConfigField()$/;"	v	class:Configuration
+has_truth	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    has_truth = ConfigField(default=False)$/;"	v	class:Configuration
+has_truth	redmapper/configuration.py	/^    has_truth = ConfigField(default=False)$/;"	v	class:Configuration
+help	bin/redmagic_calibrate.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmagic_run.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmapper_batch.py	/^                    help='Batch mode, defined in ~\/.redmapper_batch.yml')$/;"	v
+help	bin/redmapper_batch.py	/^                    help='Parallelization nside (optional, can use default)')$/;"	v
+help	bin/redmapper_batch.py	/^                    help='Run mode.  0 is full finder run.  1 is zred run.')$/;"	v
+help	bin/redmapper_batch.py	/^                    help='Wall time (override default)')$/;"	v
+help	bin/redmapper_batch.py	/^                    help='YAML config file')$/;"	v
+help	bin/redmapper_calibrate.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmapper_consolidate_run.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Clobber output file?')$/;"	v
+help	bin/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Coverage nside for healsparse file')$/;"	v
+help	bin/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Input depth file (old format)')$/;"	v
+help	bin/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Output mask healsparse file (new format)')$/;"	v
+help	bin/redmapper_convert_mask_to_healsparse.py	/^                        help='Clobber output file?')$/;"	v
+help	bin/redmapper_convert_mask_to_healsparse.py	/^                        help='Coverage nside for healsparse file')$/;"	v
+help	bin/redmapper_convert_mask_to_healsparse.py	/^                        help='Input mask file (old format)')$/;"	v
+help	bin/redmapper_convert_mask_to_healsparse.py	/^                        help='Output mask healsparse file (new format)')$/;"	v
+help	bin/redmapper_make_zred_bkg.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmapper_run_redmapper_pixel.py	/^                        help='Healpix nside for pixel')$/;"	v
+help	bin/redmapper_run_redmapper_pixel.py	/^                        help='Healpix pixel to run')$/;"	v
+help	bin/redmapper_run_redmapper_pixel.py	/^                        help='Path to set for outputs')$/;"	v
+help	bin/redmapper_run_redmapper_pixel.py	/^                        help='YAML config file')$/;"	v
+help	bin/redmapper_run_zred_pixel.py	/^                        help='Healpix nside for pixel')$/;"	v
+help	bin/redmapper_run_zred_pixel.py	/^                        help='Healpix pixel to run')$/;"	v
+help	bin/redmapper_run_zred_pixel.py	/^                        help='Path to set for outputs')$/;"	v
+help	bin/redmapper_run_zred_pixel.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmagic_calibrate.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmagic_run.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_batch.py	/^                    help='Batch mode, defined in ~\/.redmapper_batch.yml')$/;"	v
+help	build/scripts-2.7/redmapper_batch.py	/^                    help='Parallelization nside (optional, can use default)')$/;"	v
+help	build/scripts-2.7/redmapper_batch.py	/^                    help='Run mode.  0 is full finder run.  1 is zred run.')$/;"	v
+help	build/scripts-2.7/redmapper_batch.py	/^                    help='Wall time (override default)')$/;"	v
+help	build/scripts-2.7/redmapper_batch.py	/^                    help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_calibrate.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_consolidate_run.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Clobber output file?')$/;"	v
+help	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Coverage nside for healsparse file')$/;"	v
+help	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Input depth file (old format)')$/;"	v
+help	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^                        help='Output mask healsparse file (new format)')$/;"	v
+help	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^                        help='Clobber output file?')$/;"	v
+help	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^                        help='Coverage nside for healsparse file')$/;"	v
+help	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^                        help='Input mask file (old format)')$/;"	v
+help	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^                        help='Output mask healsparse file (new format)')$/;"	v
+help	build/scripts-2.7/redmapper_make_zred_bkg.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^                        help='Healpix nside for pixel')$/;"	v
+help	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^                        help='Healpix pixel to run')$/;"	v
+help	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^                        help='Path to set for outputs')$/;"	v
+help	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^                        help='YAML config file')$/;"	v
+help	build/scripts-2.7/redmapper_run_zred_pixel.py	/^                        help='Healpix nside for pixel')$/;"	v
+help	build/scripts-2.7/redmapper_run_zred_pixel.py	/^                        help='Healpix pixel to run')$/;"	v
+help	build/scripts-2.7/redmapper_run_zred_pixel.py	/^                        help='Path to set for outputs')$/;"	v
+help	build/scripts-2.7/redmapper_run_zred_pixel.py	/^                        help='YAML config file')$/;"	v
+hist	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^hist = esutil.stat.histogram(ipnest, min=0, max=hp.nside2npix(nside))$/;"	v
+histoGauss	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def histoGauss(ax, array):$/;"	f
+histoGauss	redmapper/utilities.py	/^def histoGauss(ax, array):$/;"	f
+hpix	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    hpix = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+hpix	redmapper/configuration.py	/^    hpix = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+hpix_run	bin/redmapper_batch.py	/^hpix_run = np.unique(hp.ang2pix(nside, theta, phi))$/;"	v
+hpix_run	build/scripts-2.7/redmapper_batch.py	/^hpix_run = np.unique(hp.ang2pix(nside, theta, phi))$/;"	v
+html_static_path	docs/conf.py	/^html_static_path = ['_static']$/;"	v
+html_theme	docs/conf.py	/^html_theme = 'default'$/;"	v
+htmlhelp_basename	docs/conf.py	/^htmlhelp_basename = 'sampledoc'$/;"	v
+include_dirs	setup.py	/^                              include_dirs=include_dirs)$/;"	v
+include_dirs	setup.py	/^include_dirs = [numpy.get_include()]$/;"	v
+index	bin/redmapper_batch.py	/^index = len(test)$/;"	v
+index	build/scripts-2.7/redmapper_batch.py	/^index = len(test)$/;"	v
+index_string	bin/redmapper_batch.py	/^        index_string = '$LSB_JOBINDEX-1'$/;"	v
+index_string	build/scripts-2.7/redmapper_batch.py	/^        index_string = '$LSB_JOBINDEX-1'$/;"	v
+info	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def info(self, message):$/;"	m	class:Logger
+info	redmapper/utilities.py	/^    def info(self, message):$/;"	m	class:Logger
+initcolorfiles	setup.py	/^initcolorfiles = glob.glob('data\/initcolors\/*.fit')$/;"	v
+initialize_options	setup.py	/^    def initialize_options(self):$/;"	m	class:CleanCommand
+install_requires	setup.py	/^    install_requires=['numpy'],$/;"	v
+interpol	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def interpol(v, x, xout):$/;"	f
+interpol	redmapper/utilities.py	/^def interpol(v, x, xout):$/;"	f
+ipnest	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^ipnest = hp.ang2pix(nside, theta, phi, nest=True)$/;"	v
+jobfile	bin/redmapper_batch.py	/^jobfile = os.path.join(jobpath, '%s_%d.job' % (jobname, index + 1))$/;"	v
+jobfile	build/scripts-2.7/redmapper_batch.py	/^jobfile = os.path.join(jobpath, '%s_%d.job' % (jobname, index + 1))$/;"	v
+jobname	bin/redmapper_batch.py	/^jobname = '%s_%s' % (config.outbase, jobtype)$/;"	v
+jobname	build/scripts-2.7/redmapper_batch.py	/^jobname = '%s_%s' % (config.outbase, jobtype)$/;"	v
+jobpath	bin/redmapper_batch.py	/^jobpath = os.path.join(cwd, 'jobs')$/;"	v
+jobpath	build/scripts-2.7/redmapper_batch.py	/^jobpath = os.path.join(cwd, 'jobs')$/;"	v
+jobtype	bin/redmapper_batch.py	/^    jobtype = 'run'$/;"	v
+jobtype	bin/redmapper_batch.py	/^    jobtype = 'zred'$/;"	v
+jobtype	build/scripts-2.7/redmapper_batch.py	/^    jobtype = 'run'$/;"	v
+jobtype	build/scripts-2.7/redmapper_batch.py	/^    jobtype = 'zred'$/;"	v
+lambda	redmapper/solver_nfw/solver_nfw.h	/^    double *lambda;$/;"	m	struct:solver
+latex_documents	docs/conf.py	/^latex_documents = [$/;"	v
+latex_elements	docs/conf.py	/^latex_elements = {$/;"	v
+libraries	setup.py	/^                              libraries=['gslcblas','gsl'],$/;"	v
+license	setup.py	/^    license = f.read()$/;"	v
+license	setup.py	/^    license=license,$/;"	v
+likelihoods_beta	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    likelihoods_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+likelihoods_beta	redmapper/configuration.py	/^    likelihoods_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+likelihoods_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    likelihoods_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+likelihoods_minlambda	redmapper/configuration.py	/^    likelihoods_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+likelihoods_r0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    likelihoods_r0 = ConfigField(default=1.0, required=True)$/;"	v	class:Configuration
+likelihoods_r0	redmapper/configuration.py	/^    likelihoods_r0 = ConfigField(default=1.0, required=True)$/;"	v	class:Configuration
+likelihoods_use_zred	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    likelihoods_use_zred = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+likelihoods_use_zred	redmapper/configuration.py	/^    likelihoods_use_zred = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+limmag_catalog	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    limmag_catalog = ConfigField(required=True)$/;"	v	class:Configuration
+limmag_catalog	redmapper/configuration.py	/^    limmag_catalog = ConfigField(required=True)$/;"	v	class:Configuration
+limmag_ref	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    limmag_ref = ConfigField(required=True)$/;"	v	class:Configuration
+limmag_ref	redmapper/configuration.py	/^    limmag_ref = ConfigField(required=True)$/;"	v	class:Configuration
+lnw_cen_mean	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_cen_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_cen_mean	redmapper/configuration.py	/^    lnw_cen_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_cen_sigma	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_cen_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_cen_sigma	redmapper/configuration.py	/^    lnw_cen_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_fg_mean	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_fg_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_fg_mean	redmapper/configuration.py	/^    lnw_fg_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_fg_sigma	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_fg_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_fg_sigma	redmapper/configuration.py	/^    lnw_fg_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_sat_mean	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_sat_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_sat_mean	redmapper/configuration.py	/^    lnw_sat_mean = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_sat_sigma	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lnw_sat_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+lnw_sat_sigma	redmapper/configuration.py	/^    lnw_sat_sigma = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+load_batchconfig	bin/redmapper_batch.py	/^def load_batchconfig(filename):$/;"	f
+load_batchconfig	build/scripts-2.7/redmapper_batch.py	/^def load_batchconfig(filename):$/;"	f
+long_description	setup.py	/^    long_description=readme,$/;"	v
+lookup_diagonal	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def lookup_diagonal(self, bkg_index, colors, refmags, doRaise=True):$/;"	m	class:ColorBackground
+lookup_diagonal	redmapper/color_background.py	/^    def lookup_diagonal(self, bkg_index, colors, refmags, doRaise=True):$/;"	m	class:ColorBackground
+lookup_offdiag	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def lookup_offdiag(self, bkg_index1, bkg_index2, colors1, colors2, refmags, doRaise=True):$/;"	m	class:ColorBackground
+lookup_offdiag	redmapper/color_background.py	/^    def lookup_offdiag(self, bkg_index1, bkg_index2, colors1, colors2, refmags, doRaise=True):$/;"	m	class:ColorBackground
+lumrefmagindex	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def lumrefmagindex(self,lumrefmag):$/;"	m	class:RedSequenceColorPar
+lumrefmagindex	redmapper/redsequence.py	/^    def lumrefmagindex(self,lumrefmag):$/;"	m	class:RedSequenceColorPar
+lupcorr	redmapper/chisq_dist/chisq_dist.h	/^    double *lupcorr;$/;"	m	struct:chisq_dist
+lval_reference	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    lval_reference = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+lval_reference	redmapper/configuration.py	/^    lval_reference = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+magerr	redmapper/chisq_dist/chisq_dist.h	/^    double *magerr;$/;"	m	struct:chisq_dist
+make_lockfile	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def make_lockfile(lockfile, block=False, maxtry=300, waittime=2):$/;"	f
+make_lockfile	redmapper/utilities.py	/^def make_lockfile(lockfile, block=False, maxtry=300, waittime=2):$/;"	f
+make_nodes	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def make_nodes(zrange, nodesize, maxnode=None):$/;"	f
+make_nodes	redmapper/utilities.py	/^def make_nodes(zrange, nodesize, maxnode=None):$/;"	f
+make_zred_table	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def make_zred_table(self, indices_and_filenames):$/;"	m	class:ZredRunPixels
+make_zred_table	redmapper/zred_runner.py	/^    def make_zred_table(self, indices_and_filenames):$/;"	m	class:ZredRunPixels
+man_pages	docs/conf.py	/^man_pages = [$/;"	v
+mask_mode	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    mask_mode = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+mask_mode	redmapper/configuration.py	/^    mask_mode = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+maskfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskfile = ConfigField()$/;"	v	class:Configuration
+maskfile	redmapper/configuration.py	/^    maskfile = ConfigField()$/;"	v	class:Configuration
+maskgal_dmag_extra	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgal_dmag_extra = ConfigField(default=0.3, required=True)$/;"	v	class:Configuration
+maskgal_dmag_extra	redmapper/configuration.py	/^    maskgal_dmag_extra = ConfigField(default=0.3, required=True)$/;"	v	class:Configuration
+maskgal_ngals	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgal_ngals = ConfigField(default=6000, required=True)$/;"	v	class:Configuration
+maskgal_ngals	redmapper/configuration.py	/^    maskgal_ngals = ConfigField(default=6000, required=True)$/;"	v	class:Configuration
+maskgal_nsamples	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgal_nsamples = ConfigField(default=100, required=True)$/;"	v	class:Configuration
+maskgal_nsamples	redmapper/configuration.py	/^    maskgal_nsamples = ConfigField(default=100, required=True)$/;"	v	class:Configuration
+maskgal_rad_stepsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgal_rad_stepsize = ConfigField(default=0.1, required=True)$/;"	v	class:Configuration
+maskgal_rad_stepsize	redmapper/configuration.py	/^    maskgal_rad_stepsize = ConfigField(default=0.1, required=True)$/;"	v	class:Configuration
+maskgal_zred_err	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgal_zred_err = ConfigField(default=0.02, required=True)$/;"	v	class:Configuration
+maskgal_zred_err	redmapper/configuration.py	/^    maskgal_zred_err = ConfigField(default=0.02, required=True)$/;"	v	class:Configuration
+maskgalfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    maskgalfile = ConfigField(default='maskgals.fit', required=True)$/;"	v	class:Configuration
+maskgalfile	redmapper/configuration.py	/^    maskgalfile = ConfigField(default='maskgals.fit', required=True)$/;"	v	class:Configuration
+master_doc	docs/conf.py	/^master_doc = 'index'$/;"	v
+match_many	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def match_many(self, ras, decs, radius, maxmatch=0):$/;"	m	class:GalaxyCatalog
+match_many	redmapper/galaxy.py	/^    def match_many(self, ras, decs, radius, maxmatch=0):$/;"	m	class:GalaxyCatalog
+match_one	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def match_one(self, ra, dec, radius):$/;"	m	class:GalaxyCatalog
+match_one	redmapper/galaxy.py	/^    def match_one(self, ra, dec, radius):$/;"	m	class:GalaxyCatalog
+max_maskfrac	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    max_maskfrac = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+max_maskfrac	redmapper/configuration.py	/^    max_maskfrac = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+member_dtype_base	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^member_dtype_base = [('MEM_MATCH_ID', 'i4'),$/;"	v
+member_dtype_base	redmapper/cluster.py	/^member_dtype_base = [('MEM_MATCH_ID', 'i4'),$/;"	v
+memory	bin/redmapper_batch.py	/^    memory = 2000$/;"	v
+memory	bin/redmapper_batch.py	/^    memory = 4000$/;"	v
+memory	build/scripts-2.7/redmapper_batch.py	/^    memory = 2000$/;"	v
+memory	build/scripts-2.7/redmapper_batch.py	/^    memory = 4000$/;"	v
+mode	redmapper/chisq_dist/chisq_dist.h	/^    int mode;$/;"	m	struct:chisq_dist
+mode_required	bin/redmapper_batch.py	/^    mode_required = False$/;"	v
+mode_required	bin/redmapper_batch.py	/^    mode_required = True$/;"	v
+mode_required	build/scripts-2.7/redmapper_batch.py	/^    mode_required = False$/;"	v
+mode_required	build/scripts-2.7/redmapper_batch.py	/^    mode_required = True$/;"	v
+moduledef	redmapper/chisq_dist/chisq_dist_pywrap.c	/^static struct PyModuleDef moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+moduledef	redmapper/solver_nfw/solver_nfw_pywrap.c	/^static struct PyModuleDef moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+mpc_scale	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def mpc_scale(self):$/;"	m	class:Cluster
+mpc_scale	redmapper/cluster.py	/^    def mpc_scale(self):$/;"	m	class:Cluster
+mstar	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def mstar(self):$/;"	m	class:Cluster
+mstar	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def mstar(self,z):$/;"	m	class:RedSequenceColorPar
+mstar	redmapper/cluster.py	/^    def mstar(self):$/;"	m	class:Cluster
+mstar	redmapper/redsequence.py	/^    def mstar(self,z):$/;"	m	class:RedSequenceColorPar
+mstar_band	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    mstar_band = ConfigField(default='i03')$/;"	v	class:Configuration
+mstar_band	redmapper/configuration.py	/^    mstar_band = ConfigField(default='i03')$/;"	v	class:Configuration
+mstar_survey	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    mstar_survey = ConfigField(default='sdss')$/;"	v	class:Configuration
+mstar_survey	redmapper/configuration.py	/^    mstar_survey = ConfigField(default='sdss')$/;"	v	class:Configuration
+mstarfiles	setup.py	/^mstarfiles = glob.glob('data\/mstar\/*.fit')$/;"	v
+n_nodes	bin/redmapper_batch.py	/^        n_nodes = int(np.ceil(float(hpix_run.size) \/ float(ppn)))$/;"	v
+n_nodes	build/scripts-2.7/redmapper_batch.py	/^        n_nodes = int(np.ceil(float(hpix_run.size) \/ float(ppn)))$/;"	v
+name	setup.py	/^    name='redmapper',$/;"	v
+ncalc	redmapper/chisq_dist/chisq_dist.h	/^    int ncalc;$/;"	m	struct:chisq_dist
+ncol	redmapper/chisq_dist/chisq_dist.h	/^    int ncol;$/;"	m	struct:chisq_dist
+nfw_pdf	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def nfw_pdf(x, rscale=0.15, corer=0.1, radfactor=False):$/;"	f
+nfw_pdf	redmapper/utilities.py	/^def nfw_pdf(x, rscale=0.15, corer=0.1, radfactor=False):$/;"	f
+nfw_weights	redmapper/solver_nfw/nfw_weights.c	/^int nfw_weights(double inlambda, double r0, double beta, long ngal,$/;"	f
+ngal	redmapper/chisq_dist/chisq_dist.h	/^    int ngal;$/;"	m	struct:chisq_dist
+ngal	redmapper/solver_nfw/solver_nfw.h	/^    long ngal;$/;"	m	struct:solver
+nmag	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    nmag = ConfigField(required=True)$/;"	v	class:Configuration
+nmag	redmapper/configuration.py	/^    nmag = ConfigField(required=True)$/;"	v	class:Configuration
+npzbins	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    npzbins = ConfigField(default=21, required=True)$/;"	v	class:Configuration
+npzbins	redmapper/configuration.py	/^    npzbins = ConfigField(default=21, required=True)$/;"	v	class:Configuration
+nside	bin/redmapper_batch.py	/^        nside = 4$/;"	v
+nside	bin/redmapper_batch.py	/^        nside = 8$/;"	v
+nside	bin/redmapper_batch.py	/^nside = args.nside$/;"	v
+nside	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    nside = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+nside	build/scripts-2.7/redmapper_batch.py	/^        nside = 4$/;"	v
+nside	build/scripts-2.7/redmapper_batch.py	/^        nside = 8$/;"	v
+nside	build/scripts-2.7/redmapper_batch.py	/^nside = args.nside$/;"	v
+nside	redmapper/configuration.py	/^    nside = ConfigField(default=0, required=True)$/;"	v	class:Configuration
+nside	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^nside = 512$/;"	v
+nsideCoverage	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^nsideCoverage = 32$/;"	v
+nz	redmapper/chisq_dist/chisq_dist.h	/^    int nz;$/;"	m	struct:chisq_dist
+out	tests/data_for_tests/see_headers.py	/^out = data.dtype.names$/;"	v
+outbase	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    outbase = ConfigField(required=True)$/;"	v	class:Configuration
+outbase	redmapper/configuration.py	/^    outbase = ConfigField(required=True)$/;"	v	class:Configuration
+outpath	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    outpath = ConfigField(default='.\/', required=True)$/;"	v	class:Configuration
+outpath	redmapper/configuration.py	/^    outpath = ConfigField(default='.\/', required=True)$/;"	v	class:Configuration
+output	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def output(self, savemembers=True, withversion=True, clobber=False, outbase=None):$/;"	m	class:ClusterRunner
+output	redmapper/cluster_runner.py	/^    def output(self, savemembers=True, withversion=True, clobber=False, outbase=None):$/;"	m	class:ClusterRunner
+output_configuration	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def output_configuration(self):$/;"	m	class:RedmapperCalibrator
+output_configuration	redmapper/calibration/calibrate.py	/^    def output_configuration(self):$/;"	m	class:RedmapperCalibrator
+output_training	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def output_training(self):$/;"	m	class:RunColormem
+output_training	redmapper/run_colormem.py	/^    def output_training(self):$/;"	m	class:RunColormem
+output_yaml	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def output_yaml(self, filename):$/;"	m	class:Configuration
+output_yaml	redmapper/configuration.py	/^    def output_yaml(self, filename):$/;"	m	class:Configuration
+p	redmapper/solver_nfw/solver_nfw.h	/^    double *p;$/;"	m	struct:solver
+packages	setup.py	/^    packages=find_packages(exclude=('tests', 'docs')),$/;"	v
+parfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    parfile = ConfigField()$/;"	v	class:Configuration
+parfile	redmapper/configuration.py	/^    parfile = ConfigField()$/;"	v	class:Configuration
+parser	bin/redmagic_calibrate.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaGiC red galaxy selection')$/;"	v
+parser	bin/redmagic_run.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaGiC red galaxy selection')$/;"	v
+parser	bin/redmapper_batch.py	/^parser = argparse.ArgumentParser(description="Create a batch file for running redmapper codes")$/;"	v
+parser	bin/redmapper_calibrate.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaPPer red sequence')$/;"	v
+parser	bin/redmapper_consolidate_run.py	/^    parser = argparse.ArgumentParser(description='Consolidate a redMaPPer parallel run')$/;"	v
+parser	bin/redmapper_convert_depthfile_to_healsparse.py	/^    parser = argparse.ArgumentParser(description='Convert old redmapper depth file to healsparse mask')$/;"	v
+parser	bin/redmapper_convert_mask_to_healsparse.py	/^    parser = argparse.ArgumentParser(description='Convert old redmapper geometry mask to healsparse mask')$/;"	v
+parser	bin/redmapper_make_zred_bkg.py	/^    parser = argparse.ArgumentParser(description='Compute the zred background for all galaxies')$/;"	v
+parser	bin/redmapper_run_redmapper_pixel.py	/^    parser = argparse.ArgumentParser(description='Run redmapper finder for a single pixel')$/;"	v
+parser	bin/redmapper_run_zred_pixel.py	/^    parser = argparse.ArgumentParser(description='Compute zreds for a single pixel')$/;"	v
+parser	build/scripts-2.7/redmagic_calibrate.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaGiC red galaxy selection')$/;"	v
+parser	build/scripts-2.7/redmagic_run.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaGiC red galaxy selection')$/;"	v
+parser	build/scripts-2.7/redmapper_batch.py	/^parser = argparse.ArgumentParser(description="Create a batch file for running redmapper codes")$/;"	v
+parser	build/scripts-2.7/redmapper_calibrate.py	/^    parser = argparse.ArgumentParser(description='Calibrate the redMaPPer red sequence')$/;"	v
+parser	build/scripts-2.7/redmapper_consolidate_run.py	/^    parser = argparse.ArgumentParser(description='Consolidate a redMaPPer parallel run')$/;"	v
+parser	build/scripts-2.7/redmapper_convert_depthfile_to_healsparse.py	/^    parser = argparse.ArgumentParser(description='Convert old redmapper depth file to healsparse mask')$/;"	v
+parser	build/scripts-2.7/redmapper_convert_mask_to_healsparse.py	/^    parser = argparse.ArgumentParser(description='Convert old redmapper geometry mask to healsparse mask')$/;"	v
+parser	build/scripts-2.7/redmapper_make_zred_bkg.py	/^    parser = argparse.ArgumentParser(description='Compute the zred background for all galaxies')$/;"	v
+parser	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^    parser = argparse.ArgumentParser(description='Run redmapper finder for a single pixel')$/;"	v
+parser	build/scripts-2.7/redmapper_run_zred_pixel.py	/^    parser = argparse.ArgumentParser(description='Compute zreds for a single pixel')$/;"	v
+percolation_beta	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+percolation_beta	redmapper/configuration.py	/^    percolation_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+percolation_lmask	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_lmask = ConfigField()$/;"	v	class:Configuration
+percolation_lmask	redmapper/configuration.py	/^    percolation_lmask = ConfigField()$/;"	v	class:Configuration
+percolation_maxcen	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_maxcen = ConfigField(default=5, required=True)$/;"	v	class:Configuration
+percolation_maxcen	redmapper/configuration.py	/^    percolation_maxcen = ConfigField(default=5, required=True)$/;"	v	class:Configuration
+percolation_memlum	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_memlum = ConfigField()$/;"	v	class:Configuration
+percolation_memlum	redmapper/configuration.py	/^    percolation_memlum = ConfigField()$/;"	v	class:Configuration
+percolation_memradius	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_memradius = ConfigField()$/;"	v	class:Configuration
+percolation_memradius	redmapper/configuration.py	/^    percolation_memradius = ConfigField()$/;"	v	class:Configuration
+percolation_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+percolation_minlambda	redmapper/configuration.py	/^    percolation_minlambda = ConfigField(default=3.0, required=True)$/;"	v	class:Configuration
+percolation_niter	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_niter = ConfigField(default=2, required=True)$/;"	v	class:Configuration
+percolation_niter	redmapper/configuration.py	/^    percolation_niter = ConfigField(default=2, required=True)$/;"	v	class:Configuration
+percolation_pbcg_cut	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_pbcg_cut = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+percolation_pbcg_cut	redmapper/configuration.py	/^    percolation_pbcg_cut = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+percolation_r0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_r0 = ConfigField(default=1.0, required=True)$/;"	v	class:Configuration
+percolation_r0	redmapper/configuration.py	/^    percolation_r0 = ConfigField(default=1.0, required=True)$/;"	v	class:Configuration
+percolation_rmask_0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_rmask_0 = ConfigField(default=1.5, required=True)$/;"	v	class:Configuration
+percolation_rmask_0	redmapper/configuration.py	/^    percolation_rmask_0 = ConfigField(default=1.5, required=True)$/;"	v	class:Configuration
+percolation_rmask_beta	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_rmask_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+percolation_rmask_beta	redmapper/configuration.py	/^    percolation_rmask_beta = ConfigField(default=0.2, required=True)$/;"	v	class:Configuration
+percolation_rmask_gamma	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_rmask_gamma = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+percolation_rmask_gamma	redmapper/configuration.py	/^    percolation_rmask_gamma = ConfigField(default=0.0, required=True)$/;"	v	class:Configuration
+percolation_rmask_zpivot	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    percolation_rmask_zpivot = ConfigField(default=0.3, required=True)$/;"	v	class:Configuration
+percolation_rmask_zpivot	redmapper/configuration.py	/^    percolation_rmask_zpivot = ConfigField(default=0.3, required=True)$/;"	v	class:Configuration
+phi	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^phi = np.radians(gals.ra)$/;"	v
+phi1_mmstar_m	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    phi1_mmstar_m = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_mmstar_m	redmapper/configuration.py	/^    phi1_mmstar_m = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_mmstar_slope	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    phi1_mmstar_slope = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_mmstar_slope	redmapper/configuration.py	/^    phi1_mmstar_slope = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_msig_m	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    phi1_msig_m = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_msig_m	redmapper/configuration.py	/^    phi1_msig_m = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_msig_slope	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    phi1_msig_slope = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+phi1_msig_slope	redmapper/configuration.py	/^    phi1_msig_slope = ConfigField(required=False, default=-9999.0)$/;"	v	class:Configuration
+pivotmag	redmapper/chisq_dist/chisq_dist.h	/^    double *pivotmag;$/;"	m	struct:chisq_dist
+plot_cluster_catalog	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_cluster_catalog(self, cat, areastr, nosamp=False):$/;"	m	class:NzPlot
+plot_cluster_catalog	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_cluster_catalog(self, cat, title=None, figure_return=False):$/;"	m	class:SpecPlot
+plot_cluster_catalog	redmapper/plotting.py	/^    def plot_cluster_catalog(self, cat, areastr, nosamp=False):$/;"	m	class:NzPlot
+plot_cluster_catalog	redmapper/plotting.py	/^    def plot_cluster_catalog(self, cat, title=None, figure_return=False):$/;"	m	class:SpecPlot
+plot_cluster_catalog_from_members	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_cluster_catalog_from_members(self, cat, mem, title=None, figure_return=False):$/;"	m	class:SpecPlot
+plot_cluster_catalog_from_members	redmapper/plotting.py	/^    def plot_cluster_catalog_from_members(self, cat, mem, title=None, figure_return=False):$/;"	m	class:SpecPlot
+plot_nz	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_nz(self, z, areastr, zrange, xlabel=None, ylabel=None,$/;"	m	class:NzPlot
+plot_nz	redmapper/plotting.py	/^    def plot_nz(self, z, areastr, zrange, xlabel=None, ylabel=None,$/;"	m	class:NzPlot
+plot_redmagic_catalog	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_redmagic_catalog(self, cat, name, eta, n0, areastr, sample=True, zrange=None, extraname=None):$/;"	m	class:NzPlot
+plot_redmagic_catalog	redmapper/plotting.py	/^    def plot_redmagic_catalog(self, cat, name, eta, n0, areastr, sample=True, zrange=None, extraname=None):$/;"	m	class:NzPlot
+plot_redsequence_diag	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def plot_redsequence_diag(self, fig, ind, bands):$/;"	m	class:RedSequenceColorPar
+plot_redsequence_diag	redmapper/redsequence.py	/^    def plot_redsequence_diag(self, fig, ind, bands):$/;"	m	class:RedSequenceColorPar
+plot_redsequence_offdiags	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def plot_redsequence_offdiags(self, fig, bands):$/;"	m	class:RedSequenceColorPar
+plot_redsequence_offdiags	redmapper/redsequence.py	/^    def plot_redsequence_offdiags(self, fig, bands):$/;"	m	class:RedSequenceColorPar
+plot_values	build/lib.linux-x86_64-2.7/redmapper/plotting.py	/^    def plot_values(self, z_spec, z_phot, z_phot_e, name='z_\\lambda', specname='z_{\\mathrm{spec}}',$/;"	m	class:SpecPlot
+plot_values	redmapper/plotting.py	/^    def plot_values(self, z_spec, z_phot, z_phot_e, name='z_\\lambda', specname='z_{\\mathrm{spec}}',$/;"	m	class:SpecPlot
+plotpath	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    plotpath = ConfigField(default='', required=True)$/;"	v	class:Configuration
+plotpath	redmapper/configuration.py	/^    plotpath = ConfigField(default='', required=True)$/;"	v	class:Configuration
+power	tests/test_utilities.py	/^        def power(x, exp=1.0):$/;"	f	function:SplineTestCase.runTest
+ppn	bin/redmapper_batch.py	/^        ppn = batchconfig[batchmode]['ppn']$/;"	v
+ppn	build/scripts-2.7/redmapper_batch.py	/^        ppn = batchconfig[batchmode]['ppn']$/;"	v
+project	docs/conf.py	/^project = u'sample'$/;"	v
+pygments_style	docs/conf.py	/^pygments_style = 'sphinx'$/;"	v
+r	redmapper/solver_nfw/solver_nfw.h	/^    double *r;$/;"	m	struct:solver
+r0	redmapper/solver_nfw/solver_nfw.h	/^    double r0;$/;"	m	struct:solver
+randfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    randfile = ConfigField()$/;"	v	class:Configuration
+randfile	redmapper/configuration.py	/^    randfile = ConfigField()$/;"	v	class:Configuration
+read_maskgals	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def read_maskgals(self, maskgalfile):$/;"	m	class:Mask
+read_maskgals	redmapper/mask.py	/^    def read_maskgals(self, maskgalfile):$/;"	m	class:Mask
+read_members	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def read_members(catfile):$/;"	f
+read_members	redmapper/utilities.py	/^def read_members(catfile):$/;"	f
+read_yaml	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^def read_yaml(filename):$/;"	f
+read_yaml	redmapper/configuration.py	/^def read_yaml(filename):$/;"	f
+readme	setup.py	/^    readme = f.read()$/;"	v
+redgalfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redgalfile = ConfigField()$/;"	v	class:Configuration
+redgalfile	redmapper/configuration.py	/^    redgalfile = ConfigField()$/;"	v	class:Configuration
+redgalmodelfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redgalmodelfile = ConfigField()$/;"	v	class:Configuration
+redgalmodelfile	redmapper/configuration.py	/^    redgalmodelfile = ConfigField()$/;"	v	class:Configuration
+redmagic_calib_chisqcut	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_chisqcut = ConfigField(default=20.0, required=True)$/;"	v	class:Configuration
+redmagic_calib_chisqcut	redmapper/configuration.py	/^    redmagic_calib_chisqcut = ConfigField(default=20.0, required=True)$/;"	v	class:Configuration
+redmagic_calib_corr_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_corr_nodesize = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+redmagic_calib_corr_nodesize	redmapper/configuration.py	/^    redmagic_calib_corr_nodesize = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+redmagic_calib_fractrain	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_fractrain = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+redmagic_calib_fractrain	redmapper/configuration.py	/^    redmagic_calib_fractrain = ConfigField(default=0.5, required=True)$/;"	v	class:Configuration
+redmagic_calib_nodesize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_nodesize = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+redmagic_calib_nodesize	redmapper/configuration.py	/^    redmagic_calib_nodesize = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+redmagic_calib_pz_integrate	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_pz_integrate = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+redmagic_calib_pz_integrate	redmapper/configuration.py	/^    redmagic_calib_pz_integrate = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+redmagic_calib_zbinsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_calib_zbinsize = ConfigField(default=0.02, required=True)$/;"	v	class:Configuration
+redmagic_calib_zbinsize	redmapper/configuration.py	/^    redmagic_calib_zbinsize = ConfigField(default=0.02, required=True)$/;"	v	class:Configuration
+redmagic_etas	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_etas = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_etas	redmapper/configuration.py	/^    redmagic_etas = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_maxlum	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_maxlum = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+redmagic_maxlum	redmapper/configuration.py	/^    redmagic_maxlum = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+redmagic_mock_truthspec	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_mock_truthspec = ConfigField(default=False, required=True)$/;"	v	class:Configuration
+redmagic_mock_truthspec	redmapper/configuration.py	/^    redmagic_mock_truthspec = ConfigField(default=False, required=True)$/;"	v	class:Configuration
+redmagic_n0s	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_n0s = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_n0s	redmapper/configuration.py	/^    redmagic_n0s = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_names	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_names = ConfigField(default=[], required=True, isList=True)$/;"	v	class:Configuration
+redmagic_names	redmapper/configuration.py	/^    redmagic_names = ConfigField(default=[], required=True, isList=True)$/;"	v	class:Configuration
+redmagic_run_afterburner	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_run_afterburner = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+redmagic_run_afterburner	redmapper/configuration.py	/^    redmagic_run_afterburner = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+redmagic_zmaxes	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_zmaxes = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_zmaxes	redmapper/configuration.py	/^    redmagic_zmaxes = ConfigField(default=[], required=True, isArray=True)$/;"	v	class:Configuration
+redmagic_zrange	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagic_zrange = ConfigField(default=[], required=False, isArray=True)$/;"	v	class:Configuration
+redmagic_zrange	redmapper/configuration.py	/^    redmagic_zrange = ConfigField(default=[], required=False, isArray=True)$/;"	v	class:Configuration
+redmagicfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    redmagicfile = ConfigField()$/;"	v	class:Configuration
+redmagicfile	redmapper/configuration.py	/^    redmagicfile = ConfigField()$/;"	v	class:Configuration
+redmapper_filename	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def redmapper_filename(self, redmapper_name, paths=None, filetype='fit'):$/;"	m	class:Configuration
+redmapper_filename	redmapper/configuration.py	/^    def redmapper_filename(self, redmapper_name, paths=None, filetype='fit'):$/;"	m	class:Configuration
+redshift	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def redshift(self):$/;"	m	class:Cluster
+redshift	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def redshift(self, value):$/;"	m	class:Cluster
+redshift	redmapper/cluster.py	/^    def redshift(self):$/;"	m	class:Cluster
+redshift	redmapper/cluster.py	/^    def redshift(self, value):$/;"	m	class:Cluster
+ref_ind	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    ref_ind = ConfigField(required=True)$/;"	v	class:Configuration
+ref_ind	redmapper/configuration.py	/^    ref_ind = ConfigField(required=True)$/;"	v	class:Configuration
+refmag	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    refmag = ConfigField(required=True)$/;"	v	class:Configuration
+refmag	redmapper/chisq_dist/chisq_dist.h	/^    double *refmag;$/;"	m	struct:chisq_dist
+refmag	redmapper/configuration.py	/^    refmag = ConfigField(required=True)$/;"	v	class:Configuration
+refmagerr	redmapper/chisq_dist/chisq_dist.h	/^    double *refmagerr;$/;"	m	struct:chisq_dist
+refmagindex	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def refmagindex(self,refmag):$/;"	m	class:RedSequenceColorPar
+refmagindex	redmapper/redsequence.py	/^    def refmagindex(self,refmag):$/;"	m	class:RedSequenceColorPar
+release	docs/conf.py	/^release = 'v0.0.1'$/;"	v
+reset	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def reset(self):$/;"	m	class:Cluster
+reset	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def reset(self):$/;"	m	class:ConfigField
+reset	redmapper/cluster.py	/^    def reset(self):$/;"	m	class:Cluster
+reset	redmapper/configuration.py	/^    def reset(self):$/;"	m	class:ConfigField
+rlambda	redmapper/solver_nfw/solver_nfw.h	/^    double *rlambda;$/;"	m	struct:solver
+rsig	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    rsig = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+rsig	redmapper/configuration.py	/^    rsig = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+rsig	redmapper/solver_nfw/solver_nfw.h	/^    double rsig;$/;"	m	struct:solver
+run	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def run(self, clobber=False, natatime=100000):$/;"	m	class:ZredBackgroundGenerator
+run	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def run(self, clobber=False, natatime=100000, deepmode=False):$/;"	m	class:BackgroundGenerator
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def run(self):$/;"	m	class:RedmapperCalibrator
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def run(self, iteration):$/;"	m	class:RedmapperCalibrationIteration
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/calibrate.py	/^    def run(self, iteration):$/;"	m	class:RedmapperCalibrationIterationFinal
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^    def run(self, testing=False):$/;"	m	class:WcenCalibrator
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/prepmembers.py	/^    def run(self, mode):$/;"	m	class:PrepMembers
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def run(self, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecred.py	/^    def run(self):$/;"	m	class:SelectSpecRedGalaxies
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/selectspecseeds.py	/^    def run(self, usetrain=True):$/;"	m	class:SelectSpecSeeds
+run	build/lib.linux-x86_64-2.7/redmapper/calibration/zlambdacal.py	/^    def run(self):$/;"	m	class:ZLambdaCalibrator
+run	build/lib.linux-x86_64-2.7/redmapper/cluster_runner.py	/^    def run(self, *args, **kwargs):$/;"	m	class:ClusterRunner
+run	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def run(self, clobber=False):$/;"	m	class:ColorBackgroundGenerator
+run	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmapperconsolidatetask.py	/^    def run(self, do_plots=True, match_spec=True):$/;"	m	class:RedmapperConsolidateTask
+run	build/lib.linux-x86_64-2.7/redmapper/pipeline/redmappertask.py	/^    def run(self):$/;"	m	class:RunRedmapperPixelTask
+run	build/lib.linux-x86_64-2.7/redmapper/pipeline/zredtask.py	/^    def run(self):$/;"	m	class:RunZredPixelTask
+run	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_calibrate.py	/^    def run(self, gals=None, do_run=True):$/;"	m	class:RedmagicCalibrator
+run	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagictask.py	/^    def run(self, modes=None, clobber=False, do_plots=True, n_randoms=None):$/;"	f
+run	build/lib.linux-x86_64-2.7/redmapper/redmapper_run.py	/^    def run(self, specmode=False, seedfile=None, check=True,$/;"	m	class:RedmapperRun
+run	build/lib.linux-x86_64-2.7/redmapper/run_colormem.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunColormem
+run	build/lib.linux-x86_64-2.7/redmapper/run_firstpass.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunFirstPass
+run	build/lib.linux-x86_64-2.7/redmapper/run_likelihoods.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunLikelihoods
+run	build/lib.linux-x86_64-2.7/redmapper/run_percolation.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunPercolation
+run	build/lib.linux-x86_64-2.7/redmapper/runcat.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunCatalog
+run	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def run(self, galaxyfile, outfile, clobber=False, nperproc=None, maxperproc=500000):$/;"	m	class:ZredRunCatalog
+run	build/lib.linux-x86_64-2.7/redmapper/zred_runner.py	/^    def run(self, single_process=False, no_zred_table=False, verbose=False):$/;"	m	class:ZredRunPixels
+run	redmapper/background.py	/^    def run(self, clobber=False, natatime=100000):$/;"	m	class:ZredBackgroundGenerator
+run	redmapper/background.py	/^    def run(self, clobber=False, natatime=100000, deepmode=False):$/;"	m	class:BackgroundGenerator
+run	redmapper/calibration/calibrate.py	/^    def run(self):$/;"	m	class:RedmapperCalibrator
+run	redmapper/calibration/calibrate.py	/^    def run(self, iteration):$/;"	m	class:RedmapperCalibrationIteration
+run	redmapper/calibration/calibrate.py	/^    def run(self, iteration):$/;"	m	class:RedmapperCalibrationIterationFinal
+run	redmapper/calibration/centeringcal.py	/^    def run(self, testing=False):$/;"	m	class:WcenCalibrator
+run	redmapper/calibration/prepmembers.py	/^    def run(self, mode):$/;"	m	class:PrepMembers
+run	redmapper/calibration/redsequencecal.py	/^    def run(self, doRaise=True):$/;"	m	class:RedSequenceCalibrator
+run	redmapper/calibration/selectspecred.py	/^    def run(self):$/;"	m	class:SelectSpecRedGalaxies
+run	redmapper/calibration/selectspecseeds.py	/^    def run(self, usetrain=True):$/;"	m	class:SelectSpecSeeds
+run	redmapper/calibration/zlambdacal.py	/^    def run(self):$/;"	m	class:ZLambdaCalibrator
+run	redmapper/cluster_runner.py	/^    def run(self, *args, **kwargs):$/;"	m	class:ClusterRunner
+run	redmapper/color_background.py	/^    def run(self, clobber=False):$/;"	m	class:ColorBackgroundGenerator
+run	redmapper/pipeline/redmapperconsolidatetask.py	/^    def run(self, do_plots=True, match_spec=True):$/;"	m	class:RedmapperConsolidateTask
+run	redmapper/pipeline/redmappertask.py	/^    def run(self):$/;"	m	class:RunRedmapperPixelTask
+run	redmapper/pipeline/zredtask.py	/^    def run(self):$/;"	m	class:RunZredPixelTask
+run	redmapper/redmagic/redmagic_calibrate.py	/^    def run(self, gals=None, do_run=True):$/;"	m	class:RedmagicCalibrator
+run	redmapper/redmagic/redmagictask.py	/^    def run(self, modes=None, clobber=False, do_plots=True, n_randoms=None):$/;"	f
+run	redmapper/redmapper_run.py	/^    def run(self, specmode=False, seedfile=None, check=True,$/;"	m	class:RedmapperRun
+run	redmapper/run_colormem.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunColormem
+run	redmapper/run_firstpass.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunFirstPass
+run	redmapper/run_likelihoods.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunLikelihoods
+run	redmapper/run_percolation.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunPercolation
+run	redmapper/runcat.py	/^    def run(self, *args, **kwargs):$/;"	m	class:RunCatalog
+run	redmapper/zred_runner.py	/^    def run(self, galaxyfile, outfile, clobber=False, nperproc=None, maxperproc=500000):$/;"	m	class:ZredRunCatalog
+run	redmapper/zred_runner.py	/^    def run(self, single_process=False, no_zred_table=False, verbose=False):$/;"	m	class:ZredRunPixels
+run	setup.py	/^    def run(self):$/;"	m	class:CleanCommand
+runRedmapperPixelTask	bin/redmapper_run_redmapper_pixel.py	/^    runRedmapperPixelTask = redmapper.pipeline.RunRedmapperPixelTask(args.configfile, args.pixel, args.nside, path=args.path)$/;"	v
+runRedmapperPixelTask	build/scripts-2.7/redmapper_run_redmapper_pixel.py	/^    runRedmapperPixelTask = redmapper.pipeline.RunRedmapperPixelTask(args.configfile, args.pixel, args.nside, path=args.path)$/;"	v
+runTest	tests/test_apply_errormodels.py	/^    def runTest(self):$/;"	m	class:ApplyErrormodelsTestCase
+runTest	tests/test_chisq.py	/^    def runTest(self):$/;"	m	class:ChisqColorTestCase
+runTest	tests/test_cluster.py	/^    def runTest(self):$/;"	m	class:ClusterTestCase
+runTest	tests/test_cluster_fit.py	/^    def runTest(self):$/;"	m	class:ClusterFitTestCase
+runTest	tests/test_clustercatalog.py	/^    def runTest(self):$/;"	m	class:ClusterCatalogTestCase
+runTest	tests/test_color_background.py	/^    def runTest(self):$/;"	m	class:ColorBackgroundTestCase
+runTest	tests/test_config.py	/^    def runTest(self):$/;"	m	class:ReadConfigTestCase
+runTest	tests/test_consolidate.py	/^    def runTest(self):$/;"	m	class:ConsolidateTestCase
+runTest	tests/test_depthmap.py	/^    def runTest(self):$/;"	m	class:DepthMapTestCase
+runTest	tests/test_redsequence.py	/^    def runTest(self):$/;"	m	class:RedSequenceColorTestCase
+runTest	tests/test_runcat.py	/^    def runTest(self):$/;"	m	class:RuncatTestCase
+runTest	tests/test_solver.py	/^    def runTest(self):$/;"	m	class:SolverNFWTestCase
+runTest	tests/test_utilities.py	/^    def runTest(self):$/;"	m	class:AstroToSphereTestCase
+runTest	tests/test_utilities.py	/^    def runTest(self):$/;"	m	class:CicTestCase
+runTest	tests/test_utilities.py	/^    def runTest(self):$/;"	m	class:MStarTestCase
+runTest	tests/test_utilities.py	/^    def runTest(self):$/;"	m	class:SplineTestCase
+runTest	tests/test_utilities.py	/^    def runTest(self):$/;"	m	class:UtilityTemplateTestCase
+runTest	tests/test_volumelimit.py	/^    def runTest(self):$/;"	m	class:VolumeLimitMaskTestCase
+runTest	tests/test_zlambda.py	/^    def runTest(self):$/;"	m	class:ZlambdaTestCase
+runZredPixelTask	bin/redmapper_run_zred_pixel.py	/^    runZredPixelTask = redmapper.pipeline.RunZredPixelTask(args.configfile, args.pixel, args.nside, path=args.path)$/;"	v
+runZredPixelTask	build/scripts-2.7/redmapper_run_zred_pixel.py	/^    runZredPixelTask = redmapper.pipeline.RunZredPixelTask(args.configfile, args.pixel, args.nside, path=args.path)$/;"	v
+run_redmagic	bin/redmagic_run.py	/^    run_redmagic = redmapper.redmagic.RunRedmagicTask(args.configfile)$/;"	v
+run_redmagic	build/scripts-2.7/redmagic_run.py	/^    run_redmagic = redmapper.redmagic.RunRedmagicTask(args.configfile)$/;"	v
+sample_from_pdf	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def sample_from_pdf(f, ran, step, nsamp, **kwargs):$/;"	f
+sample_from_pdf	redmapper/utilities.py	/^def sample_from_pdf(f, ran, step, nsamp, **kwargs):$/;"	f
+save_pars	build/lib.linux-x86_64-2.7/redmapper/calibration/redsequencecal.py	/^    def save_pars(self, filename, clobber=False):$/;"	m	class:RedSequenceCalibrator
+save_pars	redmapper/calibration/redsequencecal.py	/^    def save_pars(self, filename, clobber=False):$/;"	m	class:RedSequenceCalibrator
+schechter	build/lib.linux-x86_64-2.7/redmapper/calibration/centeringcal.py	/^        def schechter(x, alpha=-1.0, mstar=0.0):$/;"	f	function:WcenCalibrator._schechter_montecarlo_calib
+schechter	redmapper/calibration/centeringcal.py	/^        def schechter(x, alpha=-1.0, mstar=0.0):$/;"	f	function:WcenCalibrator._schechter_montecarlo_calib
+schechter_pdf	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^def schechter_pdf(x, alpha=-1.0, mstar=0.0):$/;"	f
+schechter_pdf	redmapper/utilities.py	/^def schechter_pdf(x, alpha=-1.0, mstar=0.0):$/;"	f
+scripts	setup.py	/^    scripts=scripts,$/;"	v
+scripts	setup.py	/^scripts = ['bin\/redmapper_run_zred_pixel.py',$/;"	v
+seedfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    seedfile = ConfigField()$/;"	v	class:Configuration
+seedfile	redmapper/configuration.py	/^    seedfile = ConfigField()$/;"	v	class:Configuration
+select_maskgals_sample	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def select_maskgals_sample(self, maskgal_index=None):$/;"	m	class:Mask
+select_maskgals_sample	redmapper/mask.py	/^    def select_maskgals_sample(self, maskgal_index=None):$/;"	m	class:Mask
+select_redmagic_galaxies	build/lib.linux-x86_64-2.7/redmapper/redmagic/redmagic_selector.py	/^    def select_redmagic_galaxies(self, gals, mode, return_indices=False):$/;"	m	class:RedmagicSelector
+select_redmagic_galaxies	redmapper/redmagic/redmagic_selector.py	/^    def select_redmagic_galaxies(self, gals, mode, return_indices=False):$/;"	m	class:RedmagicSelector
+select_scaleval	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    select_scaleval = ConfigField(default=False, required=True)$/;"	v	class:Configuration
+select_scaleval	redmapper/configuration.py	/^    select_scaleval = ConfigField(default=False, required=True)$/;"	v	class:Configuration
+setUp	tests/test_background.py	/^    def setUp(self):$/;"	m	class:BackgroundTestCase
+setUp	tests/test_centeringcal.py	/^    def setUp(self):$/;"	m	class:CenteringCalibratorTestCase
+setUp	tests/test_consolidate.py	/^    def setUp(self):$/;"	m	class:ConsolidateTestCase
+setUp	tests/test_galaxycatalog.py	/^    def setUp(self):$/;"	m	class:GalaxyCatalogTestCase
+setUp	tests/test_healsparse_conversions.py	/^    def setUp(self):$/;"	m	class:HealsparseConversionsTestCase
+setUp	tests/test_mask.py	/^    def setUp(self):$/;"	m	class:MaskTestCase
+setUp	tests/test_redmagic.py	/^    def setUp(self):$/;"	m	class:RedmagicCalTestCase
+setUp	tests/test_redmapper_run.py	/^    def setUp(self):$/;"	m	class:RedmapperRunTestCase
+setUp	tests/test_redsequencecal.py	/^    def setUp(self):$/;"	m	class:RedSequenceCalTestCase
+setUp	tests/test_run_colormem.py	/^    def setUp(self):$/;"	m	class:RunColormemTestCase
+setUp	tests/test_selectspecred.py	/^    def setUp(self):$/;"	m	class:SelectSpecRedTestCase
+setUp	tests/test_selectspecseeds.py	/^    def setUp(self):$/;"	m	class:SelectSpecSeedsTestCase
+setUp	tests/test_volumelimit.py	/^    def setUp(self):$/;"	m	class:VolumeLimitMaskTestCase
+setUp	tests/test_zlambdacal.py	/^    def setUp(self):$/;"	m	class:ZLambdaCalTestCase
+setUp	tests/test_zred.py	/^    def setUp(self):$/;"	m	class:ZredTestCase
+set_length	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def set_length(self, length):$/;"	m	class:ConfigField
+set_length	redmapper/configuration.py	/^    def set_length(self, length):$/;"	m	class:ConfigField
+set_neighbors	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def set_neighbors(self, neighbors):$/;"	m	class:Cluster
+set_neighbors	redmapper/cluster.py	/^    def set_neighbors(self, neighbors):$/;"	m	class:Cluster
+set_radmask	build/lib.linux-x86_64-2.7/redmapper/mask.py	/^    def set_radmask(self, cluster):$/;"	m	class:Mask
+set_radmask	redmapper/mask.py	/^    def set_radmask(self, cluster):$/;"	m	class:Mask
+set_wcen_vals	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def set_wcen_vals(self):$/;"	m	class:Configuration
+set_wcen_vals	redmapper/configuration.py	/^    def set_wcen_vals(self):$/;"	m	class:Configuration
+sigint	redmapper/chisq_dist/chisq_dist.h	/^    double sigint;$/;"	m	struct:chisq_dist
+sigma_g_diagonal	build/lib.linux-x86_64-2.7/redmapper/color_background.py	/^    def sigma_g_diagonal(self, bkg_index, colors, refmags):$/;"	m	class:ColorBackground
+sigma_g_diagonal	redmapper/color_background.py	/^    def sigma_g_diagonal(self, bkg_index, colors, refmags):$/;"	m	class:ColorBackground
+sigma_g_lookup	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def sigma_g_lookup(self, z, chisq, refmag, allow0=False):$/;"	m	class:Background
+sigma_g_lookup	build/lib.linux-x86_64-2.7/redmapper/background.py	/^    def sigma_g_lookup(self, zred, refmag):$/;"	m	class:ZredBackground
+sigma_g_lookup	redmapper/background.py	/^    def sigma_g_lookup(self, z, chisq, refmag, allow0=False):$/;"	m	class:Background
+sigma_g_lookup	redmapper/background.py	/^    def sigma_g_lookup(self, zred, refmag):$/;"	m	class:ZredBackground
+size	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def size(self):$/;"	m	class:Catalog
+size	redmapper/catalog.py	/^    def size(self):$/;"	m	class:Catalog
+slope	redmapper/chisq_dist/chisq_dist.h	/^    double *slope;$/;"	m	struct:chisq_dist
+solve_nfw	build/lib.linux-x86_64-2.7/redmapper/solver_nfw/solver_nfw_lib.py	/^    def solve_nfw(self):$/;"	m	class:Solver
+solve_nfw	redmapper/solver_nfw/solver_nfw_lib.py	/^    def solve_nfw(self):$/;"	m	class:Solver
+solver	redmapper/solver_nfw/solver_nfw.h	/^struct solver {$/;"	s
+solver	redmapper/solver_nfw/solver_nfw_pywrap.c	/^    struct solver* solver;$/;"	m	struct:SolverObject	typeref:struct:SolverObject::solver	file:
+solver_nfw	redmapper/solver_nfw/solver_nfw.c	/^int solver_nfw(double r0, double beta, long ngal,$/;"	f
+solver_nfw_module	setup.py	/^solver_nfw_module = Extension('redmapper.solver_nfw._solver_nfw_pywrap',$/;"	v
+solver_nfw_sources	setup.py	/^solver_nfw_sources=['redmapper\/solver_nfw\/solver_nfw_pywrap.c',$/;"	v
+source_suffix	docs/conf.py	/^source_suffix = '.rst'$/;"	v
+sources	setup.py	/^                              sources=chisq_dist_sources,$/;"	v
+sources	setup.py	/^                              sources=solver_nfw_sources,$/;"	v
+sparseMap	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^sparseMap = healsparse.HealSparseMap.makeEmpty(nsideCoverage, nside, dtype=np.float32)$/;"	v
+specfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    specfile = ConfigField()$/;"	v	class:Configuration
+specfile	redmapper/configuration.py	/^    specfile = ConfigField()$/;"	v	class:Configuration
+specfile_train	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    specfile_train = ConfigField()$/;"	v	class:Configuration
+specfile_train	redmapper/configuration.py	/^    specfile_train = ConfigField()$/;"	v	class:Configuration
+splint	build/lib.linux-x86_64-2.7/redmapper/utilities.py	/^    def splint(self,x):$/;"	m	class:CubicSpline
+splint	redmapper/utilities.py	/^    def splint(self,x):$/;"	m	class:CubicSpline
+split_galaxies	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^    def split_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+split_galaxies	redmapper/galaxy.py	/^    def split_galaxies(self, gals):$/;"	m	class:GalaxyCatalogMaker
+survey_mode	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    survey_mode = ConfigField(required=True)$/;"	v	class:Configuration
+survey_mode	redmapper/configuration.py	/^    survey_mode = ConfigField(required=True)$/;"	v	class:Configuration
+tab	bin/redmapper_batch.py	/^tab = redmapper.Entry.from_fits_file(config.galfile)$/;"	v
+tab	build/scripts-2.7/redmapper_batch.py	/^tab = redmapper.Entry.from_fits_file(config.galfile)$/;"	v
+tearDown	tests/test_background.py	/^    def tearDown(self):$/;"	m	class:BackgroundTestCase
+tearDown	tests/test_centeringcal.py	/^    def tearDown(self):$/;"	m	class:CenteringCalibratorTestCase
+tearDown	tests/test_consolidate.py	/^    def tearDown(self):$/;"	m	class:ConsolidateTestCase
+tearDown	tests/test_galaxycatalog.py	/^    def tearDown(self):$/;"	m	class:GalaxyCatalogTestCase
+tearDown	tests/test_healsparse_conversions.py	/^    def tearDown(self):$/;"	m	class:HealsparseConversionsTestCase
+tearDown	tests/test_mask.py	/^    def tearDown(self):$/;"	m	class:MaskTestCase
+tearDown	tests/test_redmagic.py	/^    def tearDown(self):$/;"	m	class:RedmagicCalTestCase
+tearDown	tests/test_redmapper_run.py	/^    def tearDown(self):$/;"	m	class:RedmapperRunTestCase
+tearDown	tests/test_redsequencecal.py	/^    def tearDown(self):$/;"	m	class:RedSequenceCalTestCase
+tearDown	tests/test_run_colormem.py	/^    def tearDown(self):$/;"	m	class:RunColormemTestCase
+tearDown	tests/test_selectspecred.py	/^    def tearDown(self):$/;"	m	class:SelectSpecRedTestCase
+tearDown	tests/test_selectspecseeds.py	/^    def tearDown(self):$/;"	m	class:SelectSpecSeedsTestCase
+tearDown	tests/test_volumelimit.py	/^    def tearDown(self):$/;"	m	class:VolumeLimitMaskTestCase
+tearDown	tests/test_zlambdacal.py	/^    def tearDown(self):$/;"	m	class:ZLambdaCalTestCase
+tearDown	tests/test_zred.py	/^    def tearDown(self):$/;"	m	class:ZredTestCase
+templates_path	docs/conf.py	/^templates_path = ['_templates']$/;"	v
+test	bin/redmapper_batch.py	/^test = glob.glob(os.path.join(jobpath, '%s_?.job' % (jobname)))$/;"	v
+test	build/scripts-2.7/redmapper_batch.py	/^test = glob.glob(os.path.join(jobpath, '%s_?.job' % (jobname)))$/;"	v
+test_bcg	tests/test_centering.py	/^    def test_bcg(self):$/;"	m	class:CenteringTestCase
+test_centeringcal	tests/test_centeringcal.py	/^    def test_centeringcal(self):$/;"	m	class:CenteringCalibratorTestCase
+test_depth_conversion	tests/test_healsparse_conversions.py	/^    def test_depth_conversion(self):$/;"	m	class:HealsparseConversionsTestCase
+test_depthfit	tests/test_depthfit.py	/^    def test_depthfit(self):$/;"	m	class:DepthFitTestCase
+test_ecgmm	tests/test_fitters.py	/^    def test_ecgmm(self):$/;"	m	class:FitterTestCase
+test_galaxycatalog_create	tests/test_galaxycatalog.py	/^    def test_galaxycatalog_create(self):$/;"	m	class:GalaxyCatalogTestCase
+test_galaxycatalog_read	tests/test_galaxycatalog.py	/^    def test_galaxycatalog_read(self):$/;"	m	class:GalaxyCatalogTestCase
+test_generatebkg	tests/test_background.py	/^    def test_generatebkg(self):$/;"	m	class:BackgroundTestCase
+test_generatezredbkg	tests/test_background.py	/^    def test_generatezredbkg(self):$/;"	m	class:BackgroundTestCase
+test_make_nodes	tests/test_fitters.py	/^    def test_make_nodes(self):$/;"	m	class:FitterTestCase
+test_mask_conversion	tests/test_healsparse_conversions.py	/^    def test_mask_conversion(self):$/;"	m	class:HealsparseConversionsTestCase
+test_maskgals	tests/test_mask.py	/^    def test_maskgals(self):$/;"	m	class:MaskTestCase
+test_off_diagonal_fitter	tests/test_fitters.py	/^    def test_off_diagonal_fitter(self):$/;"	m	class:FitterTestCase
+test_random	tests/test_centering.py	/^    def test_random(self):$/;"	m	class:CenteringTestCase
+test_randsat	tests/test_centering.py	/^    def test_randsat(self):$/;"	m	class:CenteringTestCase
+test_readbkg	tests/test_background.py	/^    def test_readbkg(self):$/;"	m	class:BackgroundTestCase
+test_readmask	tests/test_mask.py	/^    def test_readmask(self):$/;"	m	class:MaskTestCase
+test_red_sequence_fitting	tests/test_fitters.py	/^    def test_red_sequence_fitting(self):$/;"	m	class:FitterTestCase
+test_redmagic_calibrate	tests/test_redmagic.py	/^    def test_redmagic_calibrate(self):$/;"	m	class:RedmagicCalTestCase
+test_redmagic_fitter	tests/test_redmagic.py	/^    def test_redmagic_fitter(self):$/;"	m	class:RedmagicCalTestCase
+test_redmapper_run	tests/test_redmapper_run.py	/^    def test_redmapper_run(self):$/;"	m	class:RedmapperRunTestCase
+test_redsequencecal	tests/test_redsequencecal.py	/^    def test_redsequencecal(self):$/;"	m	class:RedSequenceCalTestCase
+test_run_colormem	tests/test_run_colormem.py	/^    def test_run_colormem(self):$/;"	m	class:RunColormemTestCase
+test_selectspecred	tests/test_selectspecred.py	/^    def test_selectspecred(self):$/;"	m	class:SelectSpecRedTestCase
+test_selectspecseeds	tests/test_selectspecseeds.py	/^    def test_selectspecseeds(self):$/;"	m	class:SelectSpecSeedsTestCase
+test_subpix_nside_eq_cov_nside	tests/test_subpix_indices.py	/^    def test_subpix_nside_eq_cov_nside(self):$/;"	m	class:SubpixIndexTestCase
+test_subpix_nside_gt_cov_nside	tests/test_subpix_indices.py	/^    def test_subpix_nside_gt_cov_nside(self):$/;"	m	class:SubpixIndexTestCase
+test_subpix_nside_lt_cov_nside	tests/test_subpix_indices.py	/^    def test_subpix_nside_lt_cov_nside(self):$/;"	m	class:SubpixIndexTestCase
+test_wcenzred	tests/test_centering.py	/^    def test_wcenzred(self):$/;"	m	class:CenteringTestCase
+test_zlambdacal	tests/test_zlambdacal.py	/^    def test_zlambdacal(self):$/;"	m	class:ZLambdaCalTestCase
+test_zred	tests/test_zred.py	/^    def test_zred(self):$/;"	m	class:ZredTestCase
+test_zred_correction_fitter	tests/test_fitters.py	/^    def test_zred_correction_fitter(self):$/;"	m	class:FitterTestCase
+test_zred_runcat	tests/test_zred.py	/^    def test_zred_runcat(self):$/;"	m	class:ZredTestCase
+test_zred_runpixels	tests/test_zred.py	/^    def test_zred_runpixels(self):$/;"	m	class:ZredTestCase
+texinfo_documents	docs/conf.py	/^texinfo_documents = [$/;"	v
+theta	tests/data_for_tests/redmagic_test/generate_redmagic_mask.py	/^theta = np.radians(90.0 - gals.dec)$/;"	v
+theta_r	redmapper/solver_nfw/solver_nfw.h	/^    double *theta_r;$/;"	m	struct:solver
+to_fits_file	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def to_fits_file(self, filename, clobber=False, header=None, extname=None, indices=None):$/;"	m	class:DataObject
+to_fits_file	redmapper/catalog.py	/^    def to_fits_file(self, filename, clobber=False, header=None, extname=None, indices=None):$/;"	m	class:DataObject
+ucounts	redmapper/solver_nfw/solver_nfw.h	/^    double *ucounts;$/;"	m	struct:solver
+update_neighbors_dist	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def update_neighbors_dist(self):$/;"	m	class:Cluster
+update_neighbors_dist	redmapper/cluster.py	/^    def update_neighbors_dist(self):$/;"	m	class:Cluster
+url	setup.py	/^    url='https:\/\/github.com\/erykoff\/redmapper',$/;"	v
+user_options	setup.py	/^    user_options = []$/;"	v	class:CleanCommand
+validate	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def validate(self):$/;"	m	class:Configuration
+validate	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def validate(self, name):$/;"	m	class:ConfigField
+validate	redmapper/configuration.py	/^    def validate(self):$/;"	m	class:Configuration
+validate	redmapper/configuration.py	/^    def validate(self, name):$/;"	m	class:ConfigField
+version	build/lib.linux-x86_64-2.7/redmapper/__init__.py	/^version = __version__$/;"	v
+version	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    version = ConfigField(default=__version__, required=True)$/;"	v	class:Configuration
+version	docs/conf.py	/^version = 'v0.0.1'$/;"	v
+version	redmapper/__init__.py	/^version = __version__$/;"	v
+version	redmapper/configuration.py	/^    version = ConfigField(default=__version__, required=True)$/;"	v	class:Configuration
+version	setup.py	/^    version=__version__,$/;"	v
+vlim_bands	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    vlim_bands = ConfigField(default=[], required=False, isList=True)$/;"	v	class:Configuration
+vlim_bands	redmapper/configuration.py	/^    vlim_bands = ConfigField(default=[], required=False, isList=True)$/;"	v	class:Configuration
+vlim_depthfiles	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    vlim_depthfiles = ConfigField(default=[], required=False, isList=True)$/;"	v	class:Configuration
+vlim_depthfiles	redmapper/configuration.py	/^    vlim_depthfiles = ConfigField(default=[], required=False, isList=True)$/;"	v	class:Configuration
+vlim_lstar	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    vlim_lstar = ConfigField(default=0.2, required=False)$/;"	v	class:Configuration
+vlim_lstar	redmapper/configuration.py	/^    vlim_lstar = ConfigField(default=0.2, required=False)$/;"	v	class:Configuration
+vlim_lstars	bin/redmapper_consolidate_run.py	/^        vlim_lstars = []$/;"	v
+vlim_lstars	bin/redmapper_consolidate_run.py	/^        vlim_lstars = args.vlim_lstars$/;"	v
+vlim_lstars	build/scripts-2.7/redmapper_consolidate_run.py	/^        vlim_lstars = []$/;"	v
+vlim_lstars	build/scripts-2.7/redmapper_consolidate_run.py	/^        vlim_lstars = args.vlim_lstars$/;"	v
+vlim_nsigs	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    vlim_nsigs = ConfigField(default=[], required=False, isArray=True)$/;"	v	class:Configuration
+vlim_nsigs	redmapper/configuration.py	/^    vlim_nsigs = ConfigField(default=[], required=False, isArray=True)$/;"	v	class:Configuration
+w	redmapper/solver_nfw/solver_nfw.h	/^    double *w;$/;"	m	struct:solver
+walltime	bin/redmapper_batch.py	/^    walltime = args.walltime$/;"	v
+walltime	bin/redmapper_batch.py	/^    walltime = default_walltime$/;"	v
+walltime	build/scripts-2.7/redmapper_batch.py	/^    walltime = args.walltime$/;"	v
+walltime	build/scripts-2.7/redmapper_batch.py	/^    walltime = default_walltime$/;"	v
+warn_with_traceback	tests/warn_with_traceback.py	/^def warn_with_traceback(message, category, filename, lineno, file=None, line=None):$/;"	f
+wcen_Delta0	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_Delta0 = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_Delta0	redmapper/configuration.py	/^    wcen_Delta0 = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_Delta1	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_Delta1 = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_Delta1	redmapper/configuration.py	/^    wcen_Delta1 = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_cal_zrange	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_cal_zrange = ConfigField(isArray=True, default=np.array([0.0,1.0]))$/;"	v	class:Configuration
+wcen_cal_zrange	redmapper/configuration.py	/^    wcen_cal_zrange = ConfigField(isArray=True, default=np.array([0.0,1.0]))$/;"	v	class:Configuration
+wcen_maxlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_maxlambda = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+wcen_maxlambda	redmapper/configuration.py	/^    wcen_maxlambda = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+wcen_minlambda	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_minlambda = ConfigField(default=10.0, required=True)$/;"	v	class:Configuration
+wcen_minlambda	redmapper/configuration.py	/^    wcen_minlambda = ConfigField(default=10.0, required=True)$/;"	v	class:Configuration
+wcen_pivot	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_pivot = ConfigField(default=30.0, required=True)$/;"	v	class:Configuration
+wcen_pivot	redmapper/configuration.py	/^    wcen_pivot = ConfigField(default=30.0, required=True)$/;"	v	class:Configuration
+wcen_rsoft	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_rsoft = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+wcen_rsoft	redmapper/configuration.py	/^    wcen_rsoft = ConfigField(default=0.05, required=True)$/;"	v	class:Configuration
+wcen_sigma_m	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_sigma_m = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_sigma_m	redmapper/configuration.py	/^    wcen_sigma_m = ConfigField(required=False, default=0.0)$/;"	v	class:Configuration
+wcen_uselum	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_uselum = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+wcen_uselum	redmapper/configuration.py	/^    wcen_uselum = ConfigField(default=True, required=True)$/;"	v	class:Configuration
+wcen_zred_chisq_max	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcen_zred_chisq_max = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+wcen_zred_chisq_max	redmapper/configuration.py	/^    wcen_zred_chisq_max = ConfigField(default=100.0, required=True)$/;"	v	class:Configuration
+wcenfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    wcenfile = ConfigField()$/;"	v	class:Configuration
+wcenfile	redmapper/configuration.py	/^    wcenfile = ConfigField()$/;"	v	class:Configuration
+wt	redmapper/solver_nfw/solver_nfw.h	/^    double *wt;$/;"	m	struct:solver
+zb	bin/redmapper_make_zred_bkg.py	/^    zb = redmapper.ZredBackgroundGenerator(config)$/;"	v
+zb	build/scripts-2.7/redmapper_make_zred_bkg.py	/^    zb = redmapper.ZredBackgroundGenerator(config)$/;"	v
+zeropoint	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zeropoint = ConfigField(required=True)$/;"	v	class:Configuration
+zeropoint	redmapper/configuration.py	/^    zeropoint = ConfigField(required=True)$/;"	v	class:Configuration
+zeros	build/lib.linux-x86_64-2.7/redmapper/catalog.py	/^    def zeros(cls, size, dtype):$/;"	m	class:DataObject
+zeros	build/lib.linux-x86_64-2.7/redmapper/cluster.py	/^    def zeros(cls, size, **kwargs):$/;"	m	class:ClusterCatalog
+zeros	redmapper/catalog.py	/^    def zeros(cls, size, dtype):$/;"	m	class:DataObject
+zeros	redmapper/cluster.py	/^    def zeros(cls, size, **kwargs):$/;"	m	class:ClusterCatalog
+zindex	build/lib.linux-x86_64-2.7/redmapper/redsequence.py	/^    def zindex(self,z):$/;"	m	class:RedSequenceColorPar
+zindex	redmapper/redsequence.py	/^    def zindex(self,z):$/;"	m	class:RedSequenceColorPar
+zlambda_binsize	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_binsize = ConfigField(default=0.002, required=True)$/;"	v	class:Configuration
+zlambda_binsize	redmapper/configuration.py	/^    zlambda_binsize = ConfigField(default=0.002, required=True)$/;"	v	class:Configuration
+zlambda_epsilon	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_epsilon = ConfigField(default=0.005, required=True)$/;"	v	class:Configuration
+zlambda_epsilon	redmapper/configuration.py	/^    zlambda_epsilon = ConfigField(default=0.005, required=True)$/;"	v	class:Configuration
+zlambda_maxiter	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_maxiter = ConfigField(default=20, required=True)$/;"	v	class:Configuration
+zlambda_maxiter	redmapper/configuration.py	/^    zlambda_maxiter = ConfigField(default=20, required=True)$/;"	v	class:Configuration
+zlambda_parab_step	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_parab_step = ConfigField(default=0.001, required=True)$/;"	v	class:Configuration
+zlambda_parab_step	redmapper/configuration.py	/^    zlambda_parab_step = ConfigField(default=0.001, required=True)$/;"	v	class:Configuration
+zlambda_pivot	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_pivot = ConfigField(default=30.0, required=True)$/;"	v	class:Configuration
+zlambda_pivot	redmapper/configuration.py	/^    zlambda_pivot = ConfigField(default=30.0, required=True)$/;"	v	class:Configuration
+zlambda_tol	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_tol = ConfigField(default=0.0002, required=True)$/;"	v	class:Configuration
+zlambda_tol	redmapper/configuration.py	/^    zlambda_tol = ConfigField(default=0.0002, required=True)$/;"	v	class:Configuration
+zlambda_topfrac	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambda_topfrac = ConfigField(default=0.7, required=True)$/;"	v	class:Configuration
+zlambda_topfrac	redmapper/configuration.py	/^    zlambda_topfrac = ConfigField(default=0.7, required=True)$/;"	v	class:Configuration
+zlambdafile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zlambdafile = ConfigField()$/;"	v	class:Configuration
+zlambdafile	redmapper/configuration.py	/^    zlambdafile = ConfigField()$/;"	v	class:Configuration
+zmemfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zmemfile = ConfigField()$/;"	v	class:Configuration
+zmemfile	redmapper/configuration.py	/^    zmemfile = ConfigField()$/;"	v	class:Configuration
+zrange	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zrange = ConfigField(isArray=True, array_length=2, required=True)$/;"	v	class:Configuration
+zrange	redmapper/configuration.py	/^    zrange = ConfigField(isArray=True, array_length=2, required=True)$/;"	v	class:Configuration
+zrange_cushioned	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    def zrange_cushioned(self):$/;"	m	class:Configuration
+zrange_cushioned	redmapper/configuration.py	/^    def zrange_cushioned(self):$/;"	m	class:Configuration
+zred_extra_dtype	build/lib.linux-x86_64-2.7/redmapper/galaxy.py	/^zred_extra_dtype = [('ZRED', 'f4'),$/;"	v
+zred_extra_dtype	redmapper/galaxy.py	/^zred_extra_dtype = [('ZRED', 'f4'),$/;"	v
+zredc_binsize_coarse	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zredc_binsize_coarse = ConfigField(default=0.005)$/;"	v	class:Configuration
+zredc_binsize_coarse	redmapper/configuration.py	/^    zredc_binsize_coarse = ConfigField(default=0.005)$/;"	v	class:Configuration
+zredc_binsize_fine	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zredc_binsize_fine = ConfigField(default=0.0001)$/;"	v	class:Configuration
+zredc_binsize_fine	redmapper/configuration.py	/^    zredc_binsize_fine = ConfigField(default=0.0001)$/;"	v	class:Configuration
+zredfile	build/lib.linux-x86_64-2.7/redmapper/configuration.py	/^    zredfile = ConfigField()$/;"	v	class:Configuration
+zredfile	redmapper/configuration.py	/^    zredfile = ConfigField()$/;"	v	class:Configuration
